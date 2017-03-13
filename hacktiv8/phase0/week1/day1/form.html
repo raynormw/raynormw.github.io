@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Tirta Wirya Putra">
+    <meta name="description" content="MyBook, challenge hacktiv8 phase0 week1 day1">
+    <title>MyBook | Social Media Kita Bersama</title>
+  </head>
+  <body>
+    <header>
+      <h1>Buat Account Baru!</h1>
+    </header>
+    <main>
+      <form action="welcome.html" method="post">
+        <h3>Sign Up Form</h3>
+        <div>
+          <label for="fname">First Name:</label><br>
+          <input type="text" id="fname" name="first_name">
+        </div><br>
+        <div>
+          <label for="lname">Last Name:</label><br>
+          <input type="text" id="lname" name="last_name">
+        </div><br>
+        <div>
+          <legend>Gender:</legend>
+            <label for="gender_1">
+              <input type="radio" id="gender_1" name="gender" value="male">
+              Male
+            </label><br>
+            <label for="gender_2">
+              <input type="radio" id="gender_2" name="gender" value="female">
+              Female
+            </label><br>
+            <label for="gender_3">
+              <input type="radio" id="gender_3" name="gender" value="others">
+              Others
+            </label>
+        </div><br>
+        <div>
+          <legend>Nationality:</legend>
+            <select id="nationality" name="nationality">
+            <option>Indonesian</option>
+            <option>Singaporean</option>
+            <option>Malaysian</option>
+            <option>Australian</option>
+            </select>
+        </div><br>
+        <div>
+          <legend>Language Spoken:</legend>
+            <label for="lang_1">
+              <input type="checkbox" id="lang_1" name="lang" value="bahasa">
+              Bahasa Indonesia
+            </label><br>
+            <label for="lang_2">
+              <input type="checkbox" id="lang_2" name="lang" value="english">
+              English
+            </label><br>
+            <label for="lang_3">
+              <input type="checkbox" id="lang_3" name="lang" value="others">
+              Others
+            </label>
+        </div><br>
+        <div>
+          <label for="bio">Bio:</label><br>
+          <textarea cols="30" rows="10" id="bio"></textarea>
+          <br>
+          <button type="submit">Sign Up</button>
+        </div>
+      </form>
+    </main>
+  </body>
+</html>
