@@ -12,6 +12,7 @@
       <h1>Buat Account Baru!</h1>
     </header>
     <main>
+      <section>
       <form action="welcome.html"> <!-- method post not allowed on github -->
         <h3>Sign Up Form</h3>
         <div>
@@ -23,51 +24,51 @@
           <input type="text" id="lname" name="last_name">
         </div><br>
         <div>
-          <legend>Gender:</legend>
-            <label for="gender_1">
-              <input type="radio" id="gender_1" name="gender" value="male">
-              Male
-            </label><br>
-            <label for="gender_2">
-              <input type="radio" id="gender_2" name="gender" value="female">
-              Female
-            </label><br>
-            <label for="gender_3">
-              <input type="radio" id="gender_3" name="gender" value="others">
-              Others
-            </label>
+          Gender:<br>
+          <label for="gender_1">
+            <input type="radio" checked id="gender_1" name="gender" value="male">
+            Male
+          </label><br>
+          <label for="gender_2">
+            <input type="radio" id="gender_2" name="gender" value="female">
+            Female
+          </label><br>
+          <label for="gender_3">
+            <input type="radio" id="gender_3" name="gender" value="others">
+            Others
+          </label>
         </div><br>
         <div>
-          <legend>Nationality:</legend>
-            <select id="nationality" name="nationality">
-            <option>Indonesian</option>
-            <option>Singaporean</option>
-            <option>Malaysian</option>
-            <option>Australian</option>
-            </select>
+          Nationality:<br>
+          <select name="nationality">
+          <option value="indonesian">Indonesian</option>
+          <option value="singaporean">Singaporean</option>
+          <option value="malaysian">Malaysian</option>
+          <option value="australian">Australian</option>
+          </select>
         </div><br>
         <div>
-          <legend>Language Spoken:</legend>
-            <label for="lang_1">
-              <input type="checkbox" id="lang_1" name="lang" value="bahasa">
-              Bahasa Indonesia
-            </label><br>
-            <label for="lang_2">
-              <input type="checkbox" id="lang_2" name="lang" value="english">
-              English
-            </label><br>
-            <label for="lang_3">
-              <input type="checkbox" id="lang_3" name="lang" value="others">
-              Others
-            </label>
+          Language Spoken:<br>
+          <label for="lang_1">
+            <input type="checkbox" id="lang_1" name="lang" value="bahasa">
+            Bahasa Indonesia
+          </label><br>
+          <label for="lang_2">
+            <input type="checkbox" id="lang_2" name="lang" value="english">
+            English
+          </label><br>
+          <label for="lang_3">
+            <input type="checkbox" id="lang_3" name="lang" value="others">
+            Others
+          </label>
         </div><br>
         <div>
           <label for="bio">Bio:</label><br>
-          <textarea cols="30" rows="10" id="bio"></textarea>
-          <br>
+          <textarea cols="30" rows="10" id="bio"></textarea><br>
           <button type="submit">Sign Up</button>
         </div>
       </form>
+      </section>
     </main>
   </body>
 </html>
