@@ -1,0 +1,17 @@
+/* Tirta Wirya Putra - Hacktiv8 phase0 week2 */
+
+Day 1
+1.
+
+
+2. Mengenal penggunaan Conditional (If-Else) dalam JavaScript
+   http://jsbin.com/qazogup/edit?js,console
+4. Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana
+   http://jsbin.com/menakez/edit?js,console
+   
+
+Day 2
+
+4. Mengubah Pseudocode menjadi kode JavaScript (Hard)
+   Tugas 2
+   http://jsbin.com/curitu/edit?js,console
