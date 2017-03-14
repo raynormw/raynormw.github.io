@@ -42,3 +42,8 @@ dan lain-lain
 
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
+
+# Future Plans
+* Rencananya repo ini akan menjadi online portfolio saya, dan website www.tirtawiryaputra.com akan saya update menjadi website professional saya.
+* Repo ini akan terus diupdate sejalan dengan pembelajaran yang saya ikuti di hacktiv8, semua _challenge_ berdasarkan _phase_, _week_ dan _day_ akan saya _update_ secara berkala.
+* Repo ini juga akan saya gunakan sebagai penampung semua project yang saya kerjakan diluar kegiatan _bootcamp_ hacktiv8.
