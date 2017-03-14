@@ -6,11 +6,17 @@ Day 1
 
 2. Mengenal penggunaan Conditional (If-Else) dalam JavaScript
    http://jsbin.com/qazogup/edit?js,console
+
+3.
+
 4. Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana
    http://jsbin.com/menakez/edit?js,console
    
 
 Day 2
+1.
+2.
+3.
 
 4. Mengubah Pseudocode menjadi kode JavaScript (Hard)
    Tugas 2
