@@ -7,7 +7,7 @@ Day 1
 2. Mengenal penggunaan Conditional (If-Else) dalam JavaScript
    http://jsbin.com/qazogup/edit?js,console
 
-3. Mengenal penggunaan Iteration (For) dalam JavaScript //blm
+3. Mengenal penggunaan Iteration (For) dalam JavaScript
    http://jsbin.com/faqoxam/edit?js,console
 
 4. Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana //blm
