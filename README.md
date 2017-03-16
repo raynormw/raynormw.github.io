@@ -50,9 +50,22 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   3. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%202.png)
   4. [Membuat Halaman HTML Sederhana](https://raynormw.github.io/hacktiv8/phase0/week1/day1/)
 * Day2
+  1. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 3](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%203.png)
+  2. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 4](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%204.png)
+  3. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 5](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%205.png)
+  4. [Menghias HTML dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day2/)
 * Day3
+  1. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 6](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%206.png)
+  2. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 7](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%207.png)
+  3. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 8](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%208.png)
+  4. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 9](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%209.png)
 * Day4
+  1. [Membuat Layout dan Desain Halaman Web dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day4/)
+  2. [Mempelajari Markdown dan Membuat README.md](https://github.com/raynormw/raynormw.github.io/blob/master/README.md)
+  3. [Membuat Branch Baru pada Repositori](https://github.com/raynormw/raynormw.github.io/blob/development/README.md)
 * Day5
+  1. [WEEKLY PROJECT - Website yang dihosting dengan Github Pages](https://raynormw.github.io/)
+  
 ### Week2
 * Day1
 * Day2
