@@ -1,7 +1,7 @@
 # About This Site
 Repo ini adalah _backup_ dari website personal saya yaitu www.tirtawiryaputra.com  
 Selain itu repo ini berisi _progress_ pembelajaran saya dalam mengikuti _bootcamp_ yang diselenggarakan oleh hacktiv8. Semua _challenges_ saya kerjakan dilocal dan saya _push_ ke repo ini.
-#Used Tags & Syntaxes
+# Used Tags & Syntaxes
 Beberapa _tag_ dan _syntaxes_ yang saya gunakan adalah:
 ## HTML
 * ```<html>```
@@ -39,6 +39,12 @@ body {
 }
 ```
 dan lain-lain
+
+# Hacktiv8
+Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
+## Phase0
+### Week1
+
 
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
