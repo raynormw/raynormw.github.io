@@ -71,7 +71,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Mengenal penggunaan Variable dalam JavaScript](http://jsbin.com/cecayet/edit?js,console)
   * [Mengenal penggunaan Conditional (If-Else) dalam JavaScript](http://jsbin.com/qazogup/edit?js,console)
   * [Mengenal penggunaan Iteration (For) dalam JavaScript](http://jsbin.com/faqoxam/edit?js,console)
-  * [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana(blm selesai)](http://jsbin.com/menakez/edit?js,console)
+  * [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](http://jsbin.com/menakez/edit?js,console)
 * Day2
 * Day3
 * Day4

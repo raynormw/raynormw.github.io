@@ -10,7 +10,7 @@ Day 1
 3. Mengenal penggunaan Iteration (For) dalam JavaScript
    http://jsbin.com/faqoxam/edit?js,console
 
-4. Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana //blm
+4. Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana
    http://jsbin.com/menakez/edit?js,console
    
 
