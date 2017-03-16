@@ -46,6 +46,9 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ### Week1
 * Day1
   1. [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/Perkenalan.txt)
+  2. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%201.png)
+  3. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%202.png)
+  4. [Membuat Halaman HTML Sederhana](https://raynormw.github.io/hacktiv8/phase0/week1/day1/)
 * Day2
 * Day3
 * Day4
