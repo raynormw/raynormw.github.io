@@ -45,27 +45,27 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ## Phase0
 ### Week1
 * Day1
-  1. [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/Perkenalan.txt)
-  2. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%201.png)
-  3. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%202.png)
-  4. [Membuat Halaman HTML Sederhana](https://raynormw.github.io/hacktiv8/phase0/week1/day1/)
+  * [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/Perkenalan.txt)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%201.png)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%202.png)
+  * [Membuat Halaman HTML Sederhana](https://raynormw.github.io/hacktiv8/phase0/week1/day1/)
 * Day2
-  1. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 3](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%203.png)
-  2. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 4](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%204.png)
-  3. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 5](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%205.png)
-  4. [Menghias HTML dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day2/)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 3](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%203.png)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 4](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%204.png)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 5](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%205.png)
+  * [Menghias HTML dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day2/)
 * Day3
-  1. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 6](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%206.png)
-  2. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 7](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%207.png)
-  3. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 8](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%208.png)
-  4. [Menyelesaikan Codecademy Course - HTML CSS Syllabus 9](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%209.png)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 6](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%206.png)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 7](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%207.png)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 8](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%208.png)
+  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 9](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%209.png)
 * Day4
-  1. [Membuat Layout dan Desain Halaman Web dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day4/)
-  2. [Mempelajari Markdown dan Membuat README.md](https://github.com/raynormw/raynormw.github.io/blob/master/README.md)
-  3. [Membuat Branch Baru pada Repositori](https://github.com/raynormw/raynormw.github.io/blob/development/README.md)
+  * [Membuat Layout dan Desain Halaman Web dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day4/)
+  * [Mempelajari Markdown dan Membuat README.md](https://github.com/raynormw/raynormw.github.io/blob/master/README.md)
+  * [Membuat Branch Baru pada Repositori](https://github.com/raynormw/raynormw.github.io/blob/development/README.md)
 * Day5
-  1. [WEEKLY PROJECT - Website yang dihosting dengan Github Pages](https://raynormw.github.io/)
-  
+  * [WEEKLY PROJECT - Website yang dihosting dengan Github Pages](https://raynormw.github.io/)
+
 ### Week2
 * Day1
 * Day2
