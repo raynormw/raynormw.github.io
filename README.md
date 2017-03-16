@@ -45,7 +45,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ## Phase0
 ### Week1
 * Day1
-  1. [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group] (https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/Perkenalan.txt)
+  1. [Mengenalkan dirimu kepada rekan-rekan lainnya di Slack group](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/Perkenalan.txt)
 * Day2
 * Day3
 * Day4
