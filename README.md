@@ -79,7 +79,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
     - [Tugas 2](http://jsbin.com/folejah/edit?js,console)
     - [Tugas 3](http://jsbin.com/powava/edit?js,console)
   * [Menyelesaikan Codecademy JavaScript Course Unit 1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Menyelesaikan%20Codecademy%20JavaScript%20Course%20Unit%201.png)
-  * Menyelesaikan Codecademy JavaScript Course Unit 2
+  * [Menyelesaikan Codecademy JavaScript Course Unit 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Menyelesaikan%20Codecademy%20JavaScript%20Course%20Unit%202.png)
   * Mengubah Pseudocode menjadi kode JavaScript
     - [Tugas 1](http://jsbin.com/yetutod/edit?js,console)
     - [Tugas 2](http://jsbin.com/cudipu/edit?js,console)
