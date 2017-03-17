@@ -16,7 +16,6 @@ Day 1
 
 Day 2
 1. Membuat algoritma sederhana dalam pseudocode
-   - Tugas 1
    https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt
 
 2. Mengenal Penggunaan Functions
@@ -26,7 +25,8 @@ Day 2
 4. Menyelesaikan Codecademy JavaScript Course Unit 2
 
 5. Mengubah Pseudocode menjadi kode JavaScript
-   http://jsbin.com/yetutod/edit?js,console
+   - Tugas 1
+     http://jsbin.com/yetutod/edit?js,console
 
 6. Mengubah Pseudocode menjadi kode JavaScript (Hard) (blm)
    - Tugas 2
