@@ -78,7 +78,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
     - [Tugas 1](http://jsbin.com/dutoxa/edit?js,console)
     - [Tugas 2](http://jsbin.com/folejah/edit?js,console)
     - [Tugas 3](http://jsbin.com/powava/edit?js,console)
-  * Menyelesaikan Codecademy JavaScript Course Unit 1
+  * [Menyelesaikan Codecademy JavaScript Course Unit 1]()
   * Menyelesaikan Codecademy JavaScript Course Unit 2
   * Mengubah Pseudocode menjadi kode JavaScript
     - [Tugas 1](http://jsbin.com/yetutod/edit?js,console)
