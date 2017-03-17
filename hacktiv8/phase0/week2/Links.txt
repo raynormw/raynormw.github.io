@@ -19,6 +19,12 @@ Day 2
    https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt
 
 2. Mengenal Penggunaan Functions
+   - Tugas 1
+     http://jsbin.com/dutoxa/edit?js,console
+   - Tugas 2
+     http://jsbin.com/folejah/edit?js,console
+   - Tugas 3
+     http://jsbin.com/powava/edit?js,console
 
 3. Menyelesaikan Codecademy JavaScript Course Unit 1
 
