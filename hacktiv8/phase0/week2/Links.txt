@@ -38,9 +38,13 @@ Day 2
    - Tugas 3
      http://jsbin.com/jukazih/edit?js,console
 
-6. Mengubah Pseudocode menjadi kode JavaScript (Hard) (blm)
+6. Mengubah Pseudocode menjadi kode JavaScript (Hard)
+   - Tugas 1
+     http://jsbin.com/lomidoj/edit?js,console
    - Tugas 2
      http://jsbin.com/curitu/edit?js,console
+   - Tugas 3
+     http://jsbin.com/cexuzi/edit?js,console
 
 7. Melakukan Perulangan Menggunakan While
    http://jsbin.com/sigoder/edit?js,console

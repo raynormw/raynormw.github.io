@@ -85,6 +85,9 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
     - [Tugas 2](http://jsbin.com/cudipu/edit?js,console)
     - [Tugas 3](http://jsbin.com/jukazih/edit?js,console)
   * Mengubah Pseudocode menjadi kode JavaScript (Hard)
+    - [Tugas 1](http://jsbin.com/lomidoj/edit?js,console)
+    - [Tugas 2](http://jsbin.com/curitu/edit?js,console)
+    - [Tugas 3](http://jsbin.com/cexuzi/edit?js,console)
   * [Melakukan Perulangan Menggunakan While](http://jsbin.com/sigoder/edit?js,console)
   * Menggabungkan Konsep Perulangan dan Kondisional
 * Day3
