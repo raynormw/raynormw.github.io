@@ -13,7 +13,6 @@ Day 1
 4. Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana
    http://jsbin.com/menakez/edit?js,console
    
-
 Day 2
 1. Membuat algoritma sederhana dalam pseudocode
    https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt
