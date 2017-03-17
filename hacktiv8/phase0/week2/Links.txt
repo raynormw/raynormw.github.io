@@ -16,6 +16,7 @@ Day 1
 
 Day 2
 1. Membuat algoritma sederhana dalam pseudocode
+   - Tugas 1
    https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt
 
 2. Mengenal Penggunaan Functions

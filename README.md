@@ -73,7 +73,8 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Mengenal penggunaan Iteration (For) dalam JavaScript](http://jsbin.com/faqoxam/edit?js,console)
   * [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](http://jsbin.com/menakez/edit?js,console)
 * Day2
-  * [Membuat algoritma sederhana dalam pseudocode](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt)
+  * Membuat algoritma sederhana dalam pseudocode
+    - [Tugas 1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt)
   * [Mengenal Penggunaan Functions]()
   * [Menyelesaikan Codecademy JavaScript Course Unit 1]()
   * [Menyelesaikan Codecademy JavaScript Course Unit 2]()
