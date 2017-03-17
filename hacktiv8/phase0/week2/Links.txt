@@ -39,6 +39,8 @@ Day 2
 7. Melakukan Perulangan Menggunakan While
    http://jsbin.com/sigoder/edit?js,console
 
+8. Menggabungkan Konsep Perulangan dan Kondisional
+
 
 
 
