@@ -49,6 +49,7 @@ Day 2
    http://jsbin.com/sigoder/edit?js,console
 
 8. Menggabungkan Konsep Perulangan dan Kondisional
+   http://jsbin.com/xisoyov/edit?js,console
 
 
 

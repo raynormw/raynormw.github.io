@@ -89,7 +89,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
     - [Tugas 2](http://jsbin.com/curitu/edit?js,console)
     - [Tugas 3](http://jsbin.com/cexuzi/edit?js,console)
   * [Melakukan Perulangan Menggunakan While](http://jsbin.com/sigoder/edit?js,console)
-  * Menggabungkan Konsep Perulangan dan Kondisional
+  * [Menggabungkan Konsep Perulangan dan Kondisional](http://jsbin.com/xisoyov/edit?js,console)
 * Day3
 * Day4
 * Day5
