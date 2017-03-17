@@ -1,0 +1,24 @@
+// Membuat algoritma sederhana dalam pseudocode
+// Tirta Wirya Putra - Hacktiv8 Phase0 Week2 Day2
+
+// Tugas 1
+SIMPAN "angka pertama"
+SIMPAN "angka kedua"
+HITUNG "angka pertama" dikali "angka kedua" dan SIMPAN hasil hitungan
+TULISKAN hasil hitungan
+
+// Tugas 2
+SIMPAN “kata”
+IF “kata” sama dengan “Saya Belajar Javascript!”:
+	TULISKAN “Pasti Bisa!”
+ENDIF
+
+// Tugas 3
+SIMPAN “angka”
+TENTUKAN “index” sama dengan 1
+WHILE “index” kurang dari sama dengan “angka”:
+	IF index habis dibagi 3:
+		TAMPILKAN “index”
+	ENDIF
+	ULANGI “index”
+ENDWHILE
