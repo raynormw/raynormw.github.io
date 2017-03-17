@@ -26,6 +26,7 @@ Day 2
      http://jsbin.com/powava/edit?js,console
 
 3. Menyelesaikan Codecademy JavaScript Course Unit 1
+   https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Menyelesaikan%20Codecademy%20JavaScript%20Course%20Unit%201.png
 
 4. Menyelesaikan Codecademy JavaScript Course Unit 2
 
