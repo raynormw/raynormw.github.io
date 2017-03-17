@@ -15,10 +15,12 @@ Day 1
    
 
 Day 2
-1.
+1. Membuat algoritma sederhana dalam pseudocode
+   https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt
+
 2.
 3.
 
-4. Mengubah Pseudocode menjadi kode JavaScript (Hard)
+4. Mengubah Pseudocode menjadi kode JavaScript (Hard) (blm)
    - Tugas 2
      http://jsbin.com/curitu/edit?js,console
