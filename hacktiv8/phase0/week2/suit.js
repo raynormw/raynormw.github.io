@@ -49,6 +49,18 @@ function permainan() {
   };
 }
 
+function pilihGambar(gambar) {
+  if(gambar == "batu"){
+    return "<img src='batu-resize.png' />";
+  }
+  else if(gambar == "gunting"){
+    return "<img src='gunting-resize.png' />";
+  }
+  else {
+    return "<img src='kertas-resize.png' />";
+  }
+}
+
 var mulai = new permainan();
 var pilihanPemain = "";
 var pilihanKomputer = "";
@@ -71,9 +83,11 @@ for (var i = 0; i < buttons.length; i++) {
   else {
     pilihanPemain = pilihan[2];
   }
-  pemainMemilih.innerHTML = "Kamu memilih " + pilihanPemain;
+  var gambarTampil = pilihGambar(pilihanPemain);
+  pemainMemilih.innerHTML = "Kamu memilih " + pilihanPemain + " " + gambarTampil;
   pilihanKomputer = mulai.komputerInput();
-  komputerMemilih.innerHTML = "Komputer memilih " + pilihanKomputer;
+  var gambarTampil = pilihGambar(pilihanKomputer);
+  komputerMemilih.innerHTML = "Komputer memilih " + pilihanKomputer + " " + gambarTampil;
   hasil = mulai.bandingkan(pilihanPemain, pilihanKomputer);
   tampilkanHasil.innerHTML = hasil;
   }, false);
