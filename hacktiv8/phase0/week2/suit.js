@@ -62,6 +62,15 @@ var tampilkanHasil = document.getElementById("hasil");
 for (var i = 0; i < buttons.length; i++) {
   buttons[i].addEventListener('click', function() {
   pilihanPemain = this.id;
+  if(pilihanPemain == 1) {
+    pilihanPemain = pilihan[0];
+  }
+  else if(pilihanPemain == 2) {
+    pilihanPemain = pilihan[1];
+  }
+  else {
+    pilihanPemain = pilihan[2];
+  }
   pemainMemilih.innerHTML = "Kamu memilih " + pilihanPemain;
   pilihanKomputer = mulai.komputerInput();
   komputerMemilih.innerHTML = "Komputer memilih " + pilihanKomputer;
