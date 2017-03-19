@@ -53,6 +53,10 @@ Day 2
 8. Menggabungkan Konsep Perulangan dan Kondisional
    http://jsbin.com/xisoyov/edit?js,console
 
+Day 3
+1. Mengakses Nilai dalam Array
+   http://jsbin.com/veyohul/edit?js,console
+
 Day 5
 WEEKLY PROJECT - Simple JavaScript App
 https://raynormw.github.io/hacktiv8/phase0/week2
