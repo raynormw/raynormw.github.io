@@ -55,6 +55,7 @@ h1 {
 footer {
 	background-color: #2d3033;
   margin: 0;
+  padding: 0.5rem 0;
   color: #c0ecf4;
   font-size: 2rem;
   line-height: 3.5rem;
