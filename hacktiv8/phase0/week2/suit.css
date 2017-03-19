@@ -29,9 +29,10 @@ h1 {
 }
 
 .container {
+	box-sizing: border-box;
 	background-color: #e6eddf;
-	width: 70%;
-	margin: 5rem auto 10rem auto;
+	width: 75%;
+	margin: 7rem auto 20rem auto;
 	border: none;
 	border-radius: 3rem;
 	box-shadow: 1rem 1rem 0.5rem #888888;
@@ -42,8 +43,10 @@ h1 {
 
 .button {
 	float: left;
-	margin: 0 0.7rem 2rem 0.7rem;
+	width: 33%;
+	margin: 1rem auto;
 }
+
 
 .jawab {
 	font-size: 2.8rem;
