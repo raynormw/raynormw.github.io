@@ -93,6 +93,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 * Day3
   * [Mengakses Nilai dalam Array](http://jsbin.com/veyohul/edit?js,console)
   * [Melooping menggunakan Array](http://jsbin.com/nekocus/edit?js,console)
+  * [Array Join, Split, Slice, Splice, Sort](http://jsbin.com/tuxiwuq/edit?js,console)
 * Day4
 * Day5
   * [WEEKLY PROJECT - Simple JavaScript App](https://raynormw.github.io/hacktiv8/phase0/week2)

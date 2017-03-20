@@ -58,6 +58,8 @@ Day 3
    http://jsbin.com/veyohul/edit?js,console
 2. Melooping menggunakan Array
    http://jsbin.com/nekocus/edit?js,console
+3. Array Join, Split, Slice, Splice, Sort
+   http://jsbin.com/tuxiwuq/edit?js,console
 
 Day 5
 WEEKLY PROJECT - Simple JavaScript App
