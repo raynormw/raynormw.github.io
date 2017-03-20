@@ -56,6 +56,8 @@ Day 2
 Day 3
 1. Mengakses Nilai dalam Array
    http://jsbin.com/veyohul/edit?js,console
+2. Melooping menggunakan Array
+   http://jsbin.com/nekocus/edit?js,console
 
 Day 5
 WEEKLY PROJECT - Simple JavaScript App
