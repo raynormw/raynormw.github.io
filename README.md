@@ -91,8 +91,8 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Melakukan Perulangan Menggunakan While](http://jsbin.com/sigoder/edit?js,console)
   * [Menggabungkan Konsep Perulangan dan Kondisional](http://jsbin.com/xisoyov/edit?js,console)
 * Day3
-  * [Melooping menggunakan Array](http://jsbin.com/nekocus/edit?js,console)
   * [Mengakses Nilai dalam Array](http://jsbin.com/veyohul/edit?js,console)
+  * [Melooping menggunakan Array](http://jsbin.com/nekocus/edit?js,console)
 * Day4
 * Day5
   * [WEEKLY PROJECT - Simple JavaScript App](https://raynormw.github.io/hacktiv8/phase0/week2)
