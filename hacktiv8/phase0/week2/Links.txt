@@ -61,6 +61,10 @@ Day 3
 3. Array Join, Split, Slice, Splice, Sort
    http://jsbin.com/tuxiwuq/edit?js,console
 
+Day 4
+1. Tantangan Menggunakan Object 1
+   http://jsbin.com/qaduqi/edit?js,console
+
 Day 5
 WEEKLY PROJECT - Simple JavaScript App
 https://raynormw.github.io/hacktiv8/phase0/week2
