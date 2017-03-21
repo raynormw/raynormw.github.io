@@ -101,5 +101,8 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 * Day5
   * [WEEKLY PROJECT - Simple JavaScript App](https://raynormw.github.io/hacktiv8/phase0/week2)
 
+### Week2
+* Day1
+  * [Tantangan Looping: Jumlah Perkalian Bilangan](http://jsbin.com/mejaxos/edit?js,console)
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.

@@ -1,0 +1,3 @@
+Day 1
+1. Tantangan Looping: Jumlah Perkalian Bilangan
+   http://jsbin.com/mejaxos/edit?js,console
