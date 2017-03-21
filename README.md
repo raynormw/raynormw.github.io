@@ -97,6 +97,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 * Day4
   * [Tantangan Menggunakan Object 1](http://jsbin.com/qaduqi/edit?js,console)
   * [Tantangan Menggunakan Object 2](http://jsbin.com/rehulo/edit?js,console)
+  * [Tantangan Menggunakan JSON](http://jsbin.com/gowutos/edit?js,console)
 * Day5
   * [WEEKLY PROJECT - Simple JavaScript App](https://raynormw.github.io/hacktiv8/phase0/week2)
 
