@@ -1,0 +1,77 @@
+SIMPAN aray "pilihan" dengan parameter "batu", "gunting, "kertas"
+DEKLARASI object "permainan"
+
+	DEKLARASI method "komputerInput"
+		TENTUKAN "pilihanKomputer" sama dengan Math.random()
+		IF "pilihanKomputer" kurang dari 0.34
+			return "pilihanKomputer" sama dengan "pilihan[0]"
+		ELSE IF "pilihanKomputer" kurang dari sama dengan 0.67)
+	    return "pilihanKomputer" sama dengan "pilihan[1]"
+	  ELSE
+	    return "pilihanKomputer" sama dengan "pilihan[2]"
+	  END IF
+	END METHOD
+
+	DEKLARASI method "bandingkan" dengan parameter "pilihan1" dan "pilihan2"
+		IF "pilihan1" sama dengan "pilihan2"
+			return "Uh Oh, hasilnya seri."
+		ELSE IF "pilihan1" sama dengan "batu"
+			IF "pilihan2" sama dengan "kertas"
+        return "yah.. kamu kalah.."
+      ELSE
+        return "Hore, kamu menang!!"
+      END IF
+    ELSE IF "pilihan1" sama dengan "kertas"
+    	IF "pilihan2" sama dengan "gunting"
+      	return "yah.. kamu kalah.."
+      ELSE
+        return "Hore, kamu menang!!"
+      END IF
+    ELSE IF "pilihan1" sama dengan "gunting"
+      IF "pilihan2" sama dengan "batu"
+        return "yah.. kamu kalah.."
+      ELSE
+        return "Hore, kamu menang!!"
+      END IF
+    END IF
+  END method
+
+END object
+
+DEKLARASI fungsi "pilihGambar" dengan parameter "gambar"
+	IF "gambar" sama dengan "batu"
+    return "link gambar batu kecil"
+  ELSE IF "gambar" sama dengan "gunting"
+    return "link gambar gunting kecil"
+  ELSE
+    return "link gambar kertas kecil"
+  END IF
+
+TENTUKAN "mulai" sama dengan object "permainan" baru
+TENTUKAN "pilihanPemain" sama dengan undefined
+TENTUKAN "pilihanKomputer" sama dengan undefined
+TENTUKAN "hasil" sama dengan undefined
+TENTUKAN "buttons" sama dengan ambil html element dari Class "button"
+TENTUKAN "pemainMemilih" sama dengan ambil html element dari Id "pemain"
+TENTUKAN "komputerMemilih" sama dengan ambil html element dari Id "komputer"
+TENTUKAN "tampilkanHasil" sama dengan ambil html element dari Id "hasil"
+
+FOR setiap pertambahan 1 "i" dari 0 sampai method "length" dari "buttons"
+  DEKLARASI method addEventListener click dari "buttons[i]"
+  TENTUKAN "pilihanPemain" sama dengan this.id
+  IF "pilihanPemain" sama dengan 1
+    TENTUKAN "pilihanPemain" sama dengan array "pilihan[0]"
+  ELSE IF "pilihanPemain" sama dengan 2
+    TENTUKAN "pilihanPemain" sama dengan array "pilihan[1]"
+  ELSE
+    TENTUKAN "pilihanPemain" sama dengan "pilihan[2]"
+  END IF
+  TENTUKAN "gambarTampil" sama dengan fungsi "pilihGambar" dengan parameter "pilihanPemain"
+  TENTUKAN "pemainMemilih" dari innerHTML sama dengan "Kamu memilih " + 'pilihanPemain' + " " + 'gambarTampil'
+  TENTUKAN "pilihanKomputer" sama dengan method "komputerInput" dari object "mulai"
+  TENTUKAN "gambarTampil" sama dengan fungsi "pilihGambar" dengan parameter "pilihanKomputer"
+  TENTUKAN "komputerMemilih" dar innerHTML sama dengan "Komputer memilih " + 'pilihanKomputer' + " " + 'gambarTampil'
+  TENTUKAN hasil sama dengan fungsi "bandingkan" dengan parameter "pilihanPemain" dan "pilihanKomputer" dari object "mulai"
+  TENTUKAN "tampilkanHasil" dari innerHTML sama dengan "hasil"
+  DEKLARASI false
+END FOR
