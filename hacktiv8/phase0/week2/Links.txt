@@ -64,6 +64,8 @@ Day 3
 Day 4
 1. Tantangan Menggunakan Object 1
    http://jsbin.com/qaduqi/edit?js,console
+2. Tantangan Menggunakan Object 2
+   http://jsbin.com/rehulo/edit?js,console
 
 Day 5
 WEEKLY PROJECT - Simple JavaScript App
