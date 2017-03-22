@@ -1,3 +1,5 @@
 Day 1
 1. Tantangan Looping: Jumlah Perkalian Bilangan
    http://jsbin.com/mejaxos/edit?js,console
+2. Tantangan Rekursif: Jumlah Perkalian Bilangan
+   http://jsbin.com/kewazed/edit?js,console

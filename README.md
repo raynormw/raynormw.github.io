@@ -104,5 +104,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ### Week3
 * Day1
   * [Tantangan Looping: Jumlah Perkalian Bilangan](http://jsbin.com/mejaxos/edit?js,console)
+  * [Tantangan Rekursif: Jumlah Perkalian Bilangan](http://jsbin.com/kewazed/edit?js,console)
+  
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
