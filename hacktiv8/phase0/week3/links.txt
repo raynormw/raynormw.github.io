@@ -3,3 +3,34 @@ Day 1
    http://jsbin.com/mejaxos/edit?js,console
 2. Tantangan Rekursif: Jumlah Perkalian Bilangan
    http://jsbin.com/kewazed/edit?js,console
+
+Day 2
+1. Check Nums
+   http://jsbin.com/gocakox/7/edit?js,console
+2. First Reverse
+   http://jsbin.com/peximi/edit?js,console
+3. Time Convert
+   http://jsbin.com/gojocub/5/edit?js,console
+4. Ex Oh
+   http://jsbin.com/guminey/3/edit?js,console
+
+Day 3
+1. Vowel Count
+   http://jsbin.com/wujapec/1/edit?js,console
+2. Other Products
+   http://jsbin.com/zezoyiv/edit?js,console
+3. Palindrome
+   http://jsbin.com/tuwoxal/edit?js,console
+4. Word Count
+   http://jsbin.com/dayofi/edit?js,console
+
+Day 4
+1. Powers of Two
+   http://jsbin.com/pejizoh/edit?js,console
+2. Largest Pair
+   http://jsbin.com/cepufec/edit?js,console
+3. Power Set Count
+   
+4. Arith Geo
+   http://jsbin.com/xitiqug/edit?js,console
+

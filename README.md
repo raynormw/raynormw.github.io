@@ -105,6 +105,21 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 * Day1
   * [Tantangan Looping: Jumlah Perkalian Bilangan](http://jsbin.com/mejaxos/edit?js,console)
   * [Tantangan Rekursif: Jumlah Perkalian Bilangan](http://jsbin.com/kewazed/edit?js,console)
+* Day 2
+  * [Check Nums](http://jsbin.com/gocakox/7/edit?js,console)
+  * [First Reverse](http://jsbin.com/peximi/edit?js,console)
+  * [Time Convert](http://jsbin.com/gojocub/5/edit?js,console)
+  * [Ex Oh](http://jsbin.com/guminey/3/edit?js,console)
+* Day 3
+  * [Vowel Count](http://jsbin.com/wujapec/1/edit?js,console)
+  * [Other Products](http://jsbin.com/zezoyiv/edit?js,console)
+  * [Palindrome](http://jsbin.com/tuwoxal/edit?js,console)
+  * [Word Count](http://jsbin.com/dayofi/edit?js,console)
+* Day 4
+  * [Powers of Two](http://jsbin.com/pejizoh/edit?js,console)
+  * [Largest Pair](http://jsbin.com/cepufec/edit?js,console)
+  * Power Set Count
+  * [Arith Geo](http://jsbin.com/xitiqug/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
