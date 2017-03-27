@@ -30,7 +30,6 @@ Day 4
 2. Largest Pair
    http://jsbin.com/cepufec/edit?js,console
 3. Power Set Count
-   
+   http://jsbin.com/bizawef/edit?js,console
 4. Arith Geo
    http://jsbin.com/xitiqug/edit?js,console
-

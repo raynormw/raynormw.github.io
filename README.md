@@ -118,7 +118,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 * Day 4
   * [Powers of Two](http://jsbin.com/pejizoh/edit?js,console)
   * [Largest Pair](http://jsbin.com/cepufec/edit?js,console)
-  * Power Set Count
+  * [Power Set Count](http://jsbin.com/bizawef/edit?js,console)
   * [Arith Geo](http://jsbin.com/xitiqug/edit?js,console)
   
 # About Me
