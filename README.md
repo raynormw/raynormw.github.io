@@ -120,6 +120,10 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Largest Pair](http://jsbin.com/cepufec/3/edit?js,console)
   * [Power Set Count](http://jsbin.com/bizawef/5/edit?js,console)
   * [Arith Geo](http://jsbin.com/xitiqug/2/edit?js,console)
+
+### Week4
+* Day1
+  *[Longest Word](http://jsbin.com/piyiwol/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
