@@ -111,15 +111,15 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Time Convert](http://jsbin.com/gojocub/5/edit?js,console)
   * [Ex Oh](http://jsbin.com/guminey/3/edit?js,console)
 * Day 3
-  * [Vowel Count](http://jsbin.com/wujapec/1/edit?js,console)
-  * [Other Products](http://jsbin.com/zezoyiv/edit?js,console)
-  * [Palindrome](http://jsbin.com/tuwoxal/edit?js,console)
-  * [Word Count](http://jsbin.com/dayofi/edit?js,console)
+  * [Vowel Count](http://jsbin.com/wujapec/6/edit?js,console)
+  * [Other Products](http://jsbin.com/zezoyiv/2/edit?js,console)
+  * [Palindrome](http://jsbin.com/tuwoxal/2/edit?js,console)
+  * [Word Count](http://jsbin.com/dayofi/1/edit?js,console)
 * Day 4
-  * [Powers of Two](http://jsbin.com/pejizoh/edit?js,console)
-  * [Largest Pair](http://jsbin.com/cepufec/edit?js,console)
-  * [Power Set Count](http://jsbin.com/bizawef/edit?js,console)
-  * [Arith Geo](http://jsbin.com/xitiqug/edit?js,console)
+  * [Powers of Two](http://jsbin.com/pejizoh/1/edit?js,console)
+  * [Largest Pair](http://jsbin.com/cepufec/3/edit?js,console)
+  * [Power Set Count](http://jsbin.com/bizawef/5/edit?js,console)
+  * [Arith Geo](http://jsbin.com/xitiqug/2/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
