@@ -123,7 +123,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 
 ### Week4
 * Day1
-  *[Longest Word](http://jsbin.com/piyiwol/edit?js,console)
+  * [Longest Word](http://jsbin.com/piyiwol/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
