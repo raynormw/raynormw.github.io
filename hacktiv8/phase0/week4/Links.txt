@@ -1,6 +1,12 @@
 Day 1
 1. Longest Word
    http://jsbin.com/piyiwol/edit?js,console
+2. Simple Symbols
+   http://jsbin.com/cenuqey/edit?js,console
+
+Day 2
+2. Alphabet Soup
+   http://jsbin.com/winitiw/edit?js,console
 Day 3
 2. Letter Capitalize
    http://jsbin.com/fiweqa/edit?js,console

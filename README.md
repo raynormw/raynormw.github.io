@@ -124,6 +124,9 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ### Week4
 * Day1
   * [Longest Word](http://jsbin.com/piyiwol/edit?js,console)
+  * [Simple Symbols](http://jsbin.com/cenuqey/edit?js,console)
+* Day2
+  * [Alphabet Soup](http://jsbin.com/winitiw/edit?js,console)
 * Day3
   * [Letter Capitalize](http://jsbin.com/fiweqa/edit?js,console)
   * [Letter Changes](http://jsbin.com/ceheso/edit?js,console)
