@@ -125,7 +125,8 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 * Day1
   * [Longest Word](http://jsbin.com/piyiwol/edit?js,console)
 * Day3
-  * [Letter Changes](http://jsbin.com/ceheso/1/edit?js,console)
+  * [Letter Capitalize](http://jsbin.com/fiweqa/edit?js,console)
+  * [Letter Changes](http://jsbin.com/ceheso/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
