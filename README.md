@@ -111,7 +111,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Time Convert](http://jsbin.com/gojocub/5/edit?js,console)
   * [Ex Oh](http://jsbin.com/guminey/3/edit?js,console)
 * Day3
-  * [Vowel Count](http://jsbin.com/wujapec/6/edit?js,console)
+  * [Vowel Count](http://jsbin.com/wujapec/edit?js,console)
   * [Other Products](http://jsbin.com/zezoyiv/2/edit?js,console)
   * [Palindrome](http://jsbin.com/tuwoxal/2/edit?js,console)
   * [Word Count](http://jsbin.com/dayofi/1/edit?js,console)
@@ -124,6 +124,8 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ### Week4
 * Day1
   * [Longest Word](http://jsbin.com/piyiwol/edit?js,console)
+* Day3
+  * [Letter Changes](http://jsbin.com/ceheso/1/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.

@@ -16,7 +16,7 @@ Day 2
 
 Day 3
 1. Vowel Count
-   http://jsbin.com/wujapec/6/edit?js,console
+   http://jsbin.com/wujapec/edit?js,console
 2. Other Products
    http://jsbin.com/zezoyiv/2/edit?js,console
 3. Palindrome
