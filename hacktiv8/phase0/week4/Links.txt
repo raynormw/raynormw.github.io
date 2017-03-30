@@ -21,6 +21,8 @@ Day 3
    http://jsbin.com/fiweqa/edit?js,console
 3. Letter Changes
    http://jsbin.com/ceheso/edit?js,console
+4. Letter Count 1
+   http://jsbin.com/roriwa/edit?js,console
 
 Day 4
 1. Division
