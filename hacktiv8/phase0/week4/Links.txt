@@ -9,6 +9,8 @@ Day 2
    http://jsbin.com/wi'nitiw/edit?js,console
 3. Swap Case
    http://jsbin.com/zavahip/edit?js,console
+4. AB Check
+   http://jsbin.com/gedihur/edit?js,console
 
 Day 3
 2. Letter Capitalize
