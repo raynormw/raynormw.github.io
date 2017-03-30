@@ -5,6 +5,8 @@ Day 1
    http://jsbin.com/cenuqey/edit?js,console
 
 Day 2
+1. Product Digits
+   http://jsbin.com/duxobey/edit?js,console
 2. Alphabet Soup
    http://jsbin.com/wi'nitiw/edit?js,console
 3. Swap Case
@@ -13,6 +15,8 @@ Day 2
    http://jsbin.com/gedihur/edit?js,console
 
 Day 3
+1. Dash Insert
+   http://jsbin.com/lowocuc/edit?js,console
 2. Letter Capitalize
    http://jsbin.com/fiweqa/edit?js,console
 3. Letter Changes
