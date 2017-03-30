@@ -134,6 +134,10 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Dash Insert](http://jsbin.com/lowocuc/edit?js,console)
   * [Letter Capitalize](http://jsbin.com/fiweqa/edit?js,console)
   * [Letter Changes](http://jsbin.com/ceheso/edit?js,console)
+* Day4
+  * [Division](http://jsbin.com/lobonel/edit?js,console)
+  * [Prime Time](http://jsbin.com/munorus/edit?js,console)
+  * [Simple Mode](http://jsbin.com/dezubam/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
