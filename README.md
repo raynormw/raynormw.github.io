@@ -127,6 +127,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Simple Symbols](http://jsbin.com/cenuqey/edit?js,console)
 * Day2
   * [Alphabet Soup](http://jsbin.com/winitiw/edit?js,console)
+  * [Swap Case](http://jsbin.com/zavahip/edit?js,console);
 * Day3
   * [Letter Capitalize](http://jsbin.com/fiweqa/edit?js,console)
   * [Letter Changes](http://jsbin.com/ceheso/edit?js,console)

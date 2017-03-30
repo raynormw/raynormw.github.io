@@ -6,7 +6,10 @@ Day 1
 
 Day 2
 2. Alphabet Soup
-   http://jsbin.com/winitiw/edit?js,console
+   http://jsbin.com/wi'nitiw/edit?js,console
+3. Swap Case
+   http://jsbin.com/zavahip/edit?js,console
+
 Day 3
 2. Letter Capitalize
    http://jsbin.com/fiweqa/edit?js,console
