@@ -33,3 +33,143 @@ Day 4
    http://jsbin.com/bizawef/5/edit?js,console
 4. Arith Geo
    http://jsbin.com/xitiqug/2/edit?js,console
+
+Live Coding
+1. http://jsbin.com/noferev/edit?js,console
+2. http://jsbin.com/vibivuq/edit?js,console
+3. http://jsbin.com/mudegig/edit?js,console
+
+Soal Live Coding
+
+/*
+HACKTIV8 Online Live Coding 1
+
+Nama:
+
+===============
+Game Character
+===============
+
+Berikut ini adalah 4 Character game yang memiliki data yang menjadi properti nya masing masing-masing
+seperti Name, Jobs, Age , Skill dan HP (Health Power).
+
+----------------------------------------------------
+Name  |    Jobs   |   Age |     Skill     |   HP
+----------------------------------------------------
+Andrew    Knight    35   One Handed Sword    6700
+Angus     Wizard    45   Magic Crasher       4500
+Carney    Priest    20   Healing             3000
+Benedict  Assassin  33   Cloaking            5500
+-----------------------------------------------------
+
+Tugas Anda :
+
+1. Buatlah 4 buah Object Character secara JSON dengan yang struktur properti didalam nya.
+
+2.  Masukan ke 4 Object tersebut pada sebuah Array
+    Buat Iterasi sebanyak jumlah Object
+    Buat akses setiap property
+
+    [CONTOH]
+    Array[index].objectProperty
+
+    Tampilkan informasi seperti contoh berikut:
+
+    Name : Andrew
+    Jobs : Knight
+    Age : 35
+    Skill : One Handed Sword
+    HP : 6700
+
+3. Buat Sebuah variabel monsterAttck = 5000 dimana nantinya akan mengurangi HP dari setiap Character
+
+4. Tampilkan Nama dan total HP character setelah menerima monsterAttck
+  [CONTOH]
+
+  Name : Andrew
+  HP : 1700
+
+  Name : Angus
+  HP : 0
+
+  * Apabila HP < monsterAttck, Maka HP = 0 (Jangan tampilkan Minus)
+
+
+*/
+
+/*
+HACKTIV8 Online Live Coding 2
+
+Nama:
+
+============
+The Gamblers
+============
+
+Seorang pejudi melakukan mengocokan dadu sebanyak empat kali.
+Ia akan mendapat cash sebesar 300 dikalikan dengan jumlah angka
+yang keluar dari dadu, apabila bukan 0.
+
+Apabila keluar angka 0, ia akan mendapatkan denda cash senilai 1000.
+Hasil empat kali pengocokan dadu akan dimasukkan ke dalam array, yang
+menjadi parameter ke fungsi rollDice.
+
+[PERINTAH]
+Buatlah sebuah fungsi rollDice!
+rollDice adalah sebuah function yang menerima satu parameter berupa array.
+Isi dari array pasti 4 nilai yang merupakan nilai dari dadu. Kamu tidak
+perlu melakukan validasi nilai dadu lagi. Function akan mengembalikan nilai
+hanya berupa angka.
+Kamu hanya perlu mengubah code di bagian dalam fungsi!
+
+Contoh 1:
+hasil dadu = [2, 3, 4 ,5]
+cash = (2 * 300) + (3 * 300) + (4 * 300) + (5 * 300) = 4200
+
+Contoh 2:
+hasil dadu = [3, 3, 0, 5]
+cash = (3 * 300) + (3 * 300) -1000 + (5* 300)) = 2300
+
+Contoh 3:
+hasil dadu = [0, 0, 6, 7]
+cash = -1000 + -1000 + (6 * 300) + (7 * 300) = 1900
+*/
+
+/*
+HACKTIV8 Online Live Coding 3
+
+Nama:
+
+===============
+Angka Terbilang
+===============
+
+[Perintah]
+
+Buatlah sebuah function yang mengubah kata didalam kalimat menjadi kata bilangan (TWO, FOUR)
+berdasarkan jumlah huruf yang ada didalam kata dan diurutkan berdasarkan jumlah huruf yang terbesar.
+jika dalam 1 kata memiliki:
+
+1 huruf = One
+2 huruf = Two
+3 huruf = Three
+4 huruf = Four
+5 huruf = Five
+6 huruf = Six
+7 huruf = Seven
+8 huruf = Eight
+9 huruf = Nine
+
+[Hint]
+1. ubah kata menjadi angka
+
+2. lakukan pengurutan dari yang terbesar ke terkecil
+
+3. ubah angka menjadi bilangan angka
+
+
+[Contoh]
+input : 'Aku Budi'
+output = ['Four', 'Three']
+
+*/
