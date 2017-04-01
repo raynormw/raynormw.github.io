@@ -145,9 +145,9 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
   * [Simple Mode](http://jsbin.com/dezubam/edit?js,console)
 
 ### Week5
-* [Day1 Seleksi dan Manipulasi DOM Sederhana](raynormw.github.io/tree/master/hacktiv8/phase0/week5/Day1)
-* [Day2 Penjelajahan dan Manipulasi DOM Sederhana]
-* [Day3 Memahami DOM Events]
+* [Day1 Seleksi dan Manipulasi DOM Sederhana](https://raynormw.github.io/hacktiv8/phase0/week5/Day1/)
+* [Day2 Penjelajahan dan Manipulasi DOM Sederhana](https://raynormw.github.io/hacktiv8/phase0/week5/Day2/)
+* [Day3 Memahami DOM Events](https://raynormw.github.io/hacktiv8/phase0/week5/Day3/)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
