@@ -70,7 +70,7 @@ FOR setiap pertambahan 1 "i" dari 0 sampai method "length" dari "buttons"
   TENTUKAN "pemainMemilih" dari innerHTML sama dengan "Kamu memilih " + 'pilihanPemain' + " " + 'gambarTampil'
   TENTUKAN "pilihanKomputer" sama dengan method "komputerInput" dari object "mulai"
   TENTUKAN "gambarTampil" sama dengan fungsi "pilihGambar" dengan parameter "pilihanKomputer"
-  TENTUKAN "komputerMemilih" dar innerHTML sama dengan "Komputer memilih " + 'pilihanKomputer' + " " + 'gambarTampil'
+  TENTUKAN "komputerMemilih" dari innerHTML sama dengan "Komputer memilih " + 'pilihanKomputer' + " " + 'gambarTampil'
   TENTUKAN hasil sama dengan fungsi "bandingkan" dengan parameter "pilihanPemain" dan "pilihanKomputer" dari object "mulai"
   TENTUKAN "tampilkanHasil" dari innerHTML sama dengan "hasil"
   DEKLARASI false
