@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Tirta Wirya Putra">
+    <meta name="description" content="Weekly Project Phase 0 Week 5 Hacktiv8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>deCODE</title>
+  </head>
+  <body>
+    <input id="attempt" type="hidden">
+    <input id="answer" type="hidden">
+    <div class="container">
+      <div class="col-md-6">
+        <h1>deCODE</h1>
+        <div class="row">
+          <label id="code" class="code col-md-12">????</label>
+        </div>
+        <div id="guessing-div" class="row">
+          <input id="user-guess" type="number">
+          <input class="btn simple-btn" value="Tebak !!" onclick="guess()" type="button">
+        </div>
+        <div id="replay-div" class="row" style="display:none">
+          <input class="btn simple-btn" value="Main lagi?" onclick="window.location.reload()" type="button">
+        </div>
+        <div class="row">
+          <label id="message"></label>
+        </div>
+        <div class="row" id="results">
+          <div class="row"><strong class="col-md-6">Tebakan</strong><strong class="col-md-6">Hasil</strong></div>
+
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h3>Objective:</h3>
+        <p>Tebak dengan benar Kode yang terdiri dari 4 angka.</p>
+        <h3>Rules:</h3>
+        <ul>
+          <li>Setiap tebakan harus terdiri dari 4 angka.</li>
+          <li>Angka yang sama dalam kode bisa lebih dari 1.</li>
+          <li>Kamu menang jika tebakan kamu sama persis dengan kode.</li>
+          <li>Kamu kalah jika kamu gagal menebak kode dibawah kali 10 tebakan.</li>
+          <li><span class="glyphicon glyphicon-ok"></span> Angka benar dan berada di posisi yang tepat.
+          </li><li><span class="glyphicon glyphicon-transfer"></span> Angka bagian dari kode, tetapi tidak dalam posisi yang tepat.</li>
+          <li><span class="glyphicon glyphicon-transfer"></span> Angka bisa muncul lebih dari 1.</li>
+          <li><span class="glyphicon glyphicon-remove"></span> Angka bukan bagian dari kode.</li>
+        </ul>
+      </div>
+    </div>
+    <footer>
+      Made by <a href="http://tirtawiryaputra.com" target="_blank">TWP</a> | Font DIGITAL-7 by <a href="http://www.styleseven.com" target="_blank">Sizenko Alexander</a>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>

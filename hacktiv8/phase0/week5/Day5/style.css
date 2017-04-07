@@ -1,0 +1,31 @@
+/* Weekly Project Phase 0 Week 5 Hacktiv8 | Tirta Wirya Putra */
+@font-face {
+  font-family: "digital-7";
+  src: url("digital-7.ttf");
+}
+
+body {
+  color: #02E148;
+  background-color: black;
+  font-family: "digital-7", monospace;
+  letter-spacing: 2px;
+}
+
+.code {
+  font-size: 70px;
+  padding-left: 30px;
+}
+
+.failure {
+  color: red;
+}
+
+.success {
+  color: blue;
+}
+
+footer {
+	margin: 30rem auto 0 auto;
+	line-height: 3.5rem;
+  text-align: center;
+}
