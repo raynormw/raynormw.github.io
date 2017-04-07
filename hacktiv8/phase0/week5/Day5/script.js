@@ -23,7 +23,7 @@ function guess(){
   }
 
   if(input.length != 4) {
-      message.innerHTML = 'Tebakan harus terdiri dari 4 angka.';
+      message.innerHTML = 'Tebakan harus terdiri dari 4 angka!';
       return;
   } else {
       attempt++;
