@@ -31,3 +31,12 @@ Day 4
    http://jsbin.com/munorus/edit?js,console
 3. Simple Mode
    http://jsbin.com/dezubam/edit?js,console
+
+Live Coding
+1. Part 1
+   http://jsbin.com/codehip/edit?js,console
+2. Part 2
+   http://jsbin.com/kivuwo/edit?js,console
+3. Part 3
+   http://jsbin.com/sugequf/edit?js,console
+   
