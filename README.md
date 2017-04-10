@@ -154,6 +154,9 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 * [Day3 Memahami DOM Events](https://raynormw.github.io/hacktiv8/phase0/week5/Day3/)
 * [Day4 Menyusun Layout HTML dengan JavaScript](https://raynormw.github.io/hacktiv8/phase0/week5/Day4)
 * [WEEKLY PROJECT - Simple JavaScript Games](https://raynormw.github.io/hacktiv8/phase0/week5/Day5)
+
+### Week6
+* [Day3 Mengubah Sintaks ES5 ke ES6](http://jsbin.com/wapabuz/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
