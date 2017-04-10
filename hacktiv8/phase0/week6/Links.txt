@@ -5,4 +5,7 @@ Day 3
 1. Mengubah Sintaks ES5 ke ES6
    http://jsbin.com/wapabuz/edit?js,console
 
+Day 5
+1. Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana
+   http://jsbin.com/buxoyit/edit?js,console
    

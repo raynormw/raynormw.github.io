@@ -157,6 +157,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 
 ### Week6
 * [Day3 Mengubah Sintaks ES5 ke ES6](http://jsbin.com/wapabuz/edit?js,console)
+* [Day5 Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](http://jsbin.com/buxoyit/edit?js,console)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
