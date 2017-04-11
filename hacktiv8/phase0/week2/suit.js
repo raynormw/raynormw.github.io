@@ -86,8 +86,8 @@ for (var i = 0; i < buttons.length; i++) {
   var gambarTampil = pilihGambar(pilihanPemain);
   pemainMemilih.innerHTML = "Kamu memilih " + pilihanPemain + " " + gambarTampil;
   pilihanKomputer = mulai.komputerInput();
-  var gambarTampil = pilihGambar(pilihanKomputer);
-  komputerMemilih.innerHTML = "Komputer memilih " + pilihanKomputer + " " + gambarTampil;
+  var gambarTampil2 = pilihGambar(pilihanKomputer);
+  komputerMemilih.innerHTML = "Komputer memilih " + pilihanKomputer + " " + gambarTampil2;
   hasil = mulai.bandingkan(pilihanPemain, pilihanKomputer);
   tampilkanHasil.innerHTML = hasil;
   }, false);
