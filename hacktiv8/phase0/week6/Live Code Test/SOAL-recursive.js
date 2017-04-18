@@ -1,0 +1,21 @@
+// Recursive Competency Test
+
+function tambahTerus(num) {
+	let total = 0;
+  let numString = String(num);
+
+	for (let i = 0; i < numString.length; i++) {
+		total += +numString[i];
+	}
+
+	return (String(total).length > 1) ? tambahTerus(total) : total;
+}
+
+console.log(tambahTerus(13)); // 4
+console.log(tambahTerus(54)); // 9
+console.log(tambahTerus(123)); // 6
+console.log(tambahTerus(5)); // 5
+console.log(tambahTerus(1234)); // 1
+console.log(tambahTerus(99)); // 9
+console.log(tambahTerus(88888888)); // 1
+console.log(tambahTerus(333)); // 9
