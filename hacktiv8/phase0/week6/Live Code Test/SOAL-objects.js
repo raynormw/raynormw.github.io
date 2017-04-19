@@ -5,13 +5,13 @@ function Fox(speciesParam, favouriteFoodParam) {
   this.favouriteFood = favouriteFoodParam;
   this.howl = function() {
 		return (speciesParam[0].match(/[AIUEO]/)) ? `howl! I'm an ${speciesParam} Fox !!!` : `howl! I'm a ${speciesParam} Fox !!!`;
-  }
+  };
   this.meet = function(foxObj) {
 		return (foxObj.species == this.species) ? "hey brother!" : "hello nice to meet you";
-  }
+  };
   this.changeGenetics = function(newSpecies) {
 		return this.species = newSpecies;
-  }
+  };
 }
 
 var jakeTheFox = new Fox("Darwin", "Meat");
