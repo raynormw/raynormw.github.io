@@ -158,7 +158,7 @@ Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ### Week6
 *	[Live Coding](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase0/week6/Live%20Code%20Test)
 * [Day3 Mengubah Sintaks ES5 ke ES6](http://jsbin.com/wapabuz/edit?js,console)
-*	[Day4 Menyusun Class ES6]()
+*	[Day4 Menyusun Class ES6](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week6/class.js)
 * [Day5 Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](http://jsbin.com/buxoyit/edit?js,console)
   
 # About Me
