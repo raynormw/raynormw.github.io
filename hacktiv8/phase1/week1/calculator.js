@@ -39,6 +39,28 @@ class Calculator {
 * - Method Chaining
 */
 
+const calc = new Calculator();
+const data = Object.keys(calc);
+console.log(calc[data]);
+
+const newCalc = calc.add(2);
+console.log(newCalc[data]);
+
+const substract = calc.substract(1);
+console.log(substract[data]);
+
+const multiply = calc.multiply(11);
+console.log(multiply[data]);
+
+const divide = calc.divide(2);
+console.log(divide[data]);
+
+const square = calc.square();
+console.log(square[data]);
+
+const sqroot = calc.squareRoot();
+console.log(sqroot[data]);
+
 module.exports = {
   Calculator
 }
