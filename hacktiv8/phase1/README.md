@@ -14,7 +14,7 @@
 * Day3
   * [Nested Array 1 - Chessboard](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/chessboard.js)
   * [Nested Array 1 - Tictactoe](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/tictactoe.js)
-  * [Nested Array 2 -](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/nested_array_2_convert.js)
+  * [Nested Array 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/nested_array_2_convert.js)
   * [Stack](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/stack.js)
   * [Queue](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/queue.js)
   * [Advanced Calculator](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/calculator.js)
