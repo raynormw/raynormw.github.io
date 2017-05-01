@@ -40,4 +40,22 @@ class Stack {
   }
 }
 
+let myStack = new Stack;
+console.log(typeof myStack);
+console.log(myStack.isEmpty());
+
+myStack.stackPush("JavaScript");
+myStack.stackPush("is just so");
+myStack.stackPush("cool");
+console.log(myStack.size());
+
+myStack.stackPush(15);
+console.log(myStack.last());
+
+myStack.stackPop();
+myStack.stackPop();
+myStack.stackPop();
+myStack.stackPop();
+console.log(myStack.isEmpty());
+
 module.exports = Stack
