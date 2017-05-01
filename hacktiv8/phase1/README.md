@@ -3,24 +3,31 @@
 * Day1
   * [First Challenge](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/first-challenge-git)
   * [Roman Numerals](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman-numerals/roman_numerals.js)
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%202.png)
-  * [Membuat Halaman HTML Sederhana](https://raynormw.github.io/hacktiv8/phase0/week1/day1/)
+  * [Roman Numerals Recursive](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman_numerals_recursive.js)
+  * [Number in Words(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/number_in_words.js)
 * Day2
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 3](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%203.png)
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 4](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%204.png)
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 5](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day2/HTML%20CSS%20Syllabus%205.png)
-  * [Menghias HTML dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day2/)
+  * [Linear Search](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/linear_search.js)
+  * [Binary Search](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/binary.js)
+  * [Pig Latin](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/pig_latin.js)
+  * [Regular Expression](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/regular_expressions.js)
+  * [Words in File(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/words_in_a_file.js)
 * Day3
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 6](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%206.png)
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 7](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%207.png)
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 8](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%208.png)
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 9](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day3/HTML%20CSS%20Syllabus%209.png)
+  * [Nested Array 1 - Chessboard](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/chessboard.js)
+  * [Nested Array 1 - Tictactoe](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/tictactoe.js)
+  * [Nested Array 2 -](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/nested_array_2_convert.js)
+  * [Stack](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/stack.js)
+  * [Queue](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/queue.js)
+  * [Advanced Calculator](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/calculator.js)
+  * [Subsets with Recursion(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/recursive_methods.js)
+  * [Abstract Data Structures(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/abstract_data_structures.js)
 * Day4
-  * [Membuat Layout dan Desain Halaman Web dengan CSS](https://raynormw.github.io/hacktiv8/phase0/week1/day4/)
-  * [Mempelajari Markdown dan Membuat README.md](https://github.com/raynormw/raynormw.github.io/blob/master/README.md)
-  * [Membuat Branch Baru pada Repositori](https://github.com/raynormw/raynormw.github.io/blob/development/README.md)
+  * [JS Racer](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/js-racer)
 * Day5
-  * [WEEKLY PROJECT - Website yang dihosting dengan Github Pages](https://raynormw.github.io/)
+  * [Sudoku 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/sudoku1)
+  * [Sudoku 2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/sudoku2)
+* Weekly Challenges
+  * [Boggle 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle1)
+  * [Boggle 2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle2)
 
 <!-- ## Week2
 * Day1
