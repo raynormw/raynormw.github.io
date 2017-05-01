@@ -2,7 +2,7 @@
 ## Week1
 * Day1
   * [First Challenge](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/first-challenge-git)
-  * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%201.png)
+  * [Roman Numerals](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman-numerals/roman_numerals.js)
   * [Menyelesaikan Codecademy Course - HTML CSS Syllabus 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week1/day1/HTML%20CSS%20Syllabus%202.png)
   * [Membuat Halaman HTML Sederhana](https://raynormw.github.io/hacktiv8/phase0/week1/day1/)
 * Day2
