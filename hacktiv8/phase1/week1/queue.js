@@ -38,3 +38,21 @@ class Queue {
     return this.first();
   }
 }
+
+let myQueue = new Queue;
+console.log(typeof myQueue);
+console.log(myQueue.isEmpty());
+
+myQueue.queueInsert("JavaScript");
+myQueue.queueInsert("is just so");
+myQueue.queueInsert("cool");
+console.log(myQueue.size());
+
+myQueue.queueInsert(15);
+console.log(myQueue.last());
+
+myQueue.queueRemove();
+myQueue.queueRemove();
+myQueue.queueRemove();
+myQueue.queueRemove();
+console.log(myQueue.isEmpty());
