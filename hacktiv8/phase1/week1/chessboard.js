@@ -47,7 +47,9 @@ const makeChessboard = () => {
 }
 
 const printBoard = x => {
-  return console.log(x);
+  for (let i = 0; i < x.length; i++) {
+    console.log(x[i].join(" "));
+  }
 }
 
 printBoard(makeChessboard());
