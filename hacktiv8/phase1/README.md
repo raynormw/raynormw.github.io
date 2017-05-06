@@ -2,7 +2,7 @@
 ## Week1
 * Day1
   * [First Challenge](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/first-challenge-git)
-  * [Roman Numerals](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman-numerals/roman_numerals.js)
+  * [Roman Numerals](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman_numerals.js)
   * [Roman Numerals Recursive](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman_numerals_recursive.js)
   * [Number in Words(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/number_in_words.js)
 * Day2
