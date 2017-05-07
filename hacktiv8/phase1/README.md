@@ -29,42 +29,29 @@
   * [Boggle 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle1)
   * [Boggle 2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle2)
 
-<!-- ## Week2
+## Week2
 * Day1
-  * [Mengenal penggunaan Variable dalam JavaScript](http://jsbin.com/cecayet/edit?js,console)
-  * [Mengenal penggunaan Conditional (If-Else) dalam JavaScript](http://jsbin.com/qazogup/edit?js,console)
-  * [Mengenal penggunaan Iteration (For) dalam JavaScript](http://jsbin.com/faqoxam/edit?js,console)
-  * [Mampu menggabungkan konsep Conditional dan Iteration dalam kasus sederhana](http://jsbin.com/menakez/edit?js,console)
+  * [Parsing Data 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/parsing-data)
+  * [Classical Inheritance](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/classical-inheritance/animals_inheritance.js)
+  * [Mango Tree](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/mango-tree/mango_tree.js)
 * Day2
-  * [Membuat algoritma sederhana dalam pseudocode](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Membuat%20algoritma%20sederhana%20dalam%20pseudocode.txt)
-  * Mengenal Penggunaan Functions
-    - [Tugas 1](http://jsbin.com/dutoxa/edit?js,console)
-    - [Tugas 2](http://jsbin.com/folejah/edit?js,console)
-    - [Tugas 3](http://jsbin.com/powava/edit?js,console)
-  * [Menyelesaikan Codecademy JavaScript Course Unit 1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Menyelesaikan%20Codecademy%20JavaScript%20Course%20Unit%201.png)
-  * [Menyelesaikan Codecademy JavaScript Course Unit 2](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week2/Menyelesaikan%20Codecademy%20JavaScript%20Course%20Unit%202.png)
-  * Mengubah Pseudocode menjadi kode JavaScript
-    - [Tugas 1](http://jsbin.com/yetutod/edit?js,console)
-    - [Tugas 2](http://jsbin.com/cudipu/edit?js,console)
-    - [Tugas 3](http://jsbin.com/jukazih/edit?js,console)
-  * Mengubah Pseudocode menjadi kode JavaScript (Hard)
-    - [Tugas 1](http://jsbin.com/lomidoj/edit?js,console)
-    - [Tugas 2](http://jsbin.com/curitu/edit?js,console)
-    - [Tugas 3](http://jsbin.com/cexuzi/edit?js,console)
-  * [Melakukan Perulangan Menggunakan While](http://jsbin.com/sigoder/edit?js,console)
-  * [Menggabungkan Konsep Perulangan dan Kondisional](http://jsbin.com/xisoyov/edit?js,console)
+  * [Object Composition](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/object-composition)
+  * [Hospital Interface](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/hospital-interface/hospital.js)
 * Day3
-  * [Mengakses Nilai dalam Array](http://jsbin.com/veyohul/edit?js,console)
-  * [Melooping menggunakan Array](http://jsbin.com/nekocus/edit?js,console)
-  * [Array Join, Split, Slice, Splice, Sort](http://jsbin.com/tuxiwuq/edit?js,console)
+  * [Argument Order Dependency](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/argument-order-dependency)
+  * [ARGV Basic](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/argv-basics/pig_latin.js)
+  * [Todos App](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/js-todos)
 * Day4
-  * [Tantangan Menggunakan Object 1](http://jsbin.com/qaduqi/edit?js,console)
-  * [Tantangan Menggunakan Object 2](http://jsbin.com/rehulo/edit?js,console)
-  * [Tantangan Menggunakan JSON](http://jsbin.com/gowutos/edit?js,console)
+  * [All Relation Case Study](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/all-relations-case-study/karyawan_schema.png)
+  * [Family Tree](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/schema-family-tree/family%20tree.png)
+  * [Polling](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/schema-polling/polling_schema.png)
+  * [Reddit Jr](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/schema-reddit-jr/Reddit-Jr.png)
+  * [Codecademy](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/sql-codecademy/sql_codecademy.png)
+  * [Live Poll DB 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/poll-db-1)
 * Day5
-  * [WEEKLY PROJECT - Simple JavaScript Games](https://raynormw.github.io/hacktiv8/phase0/week2)
+  * [Flashcard](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/js-flashcards)
 
-## Week3
+<!-- ## Week3
 * Day1
   * [Tantangan Looping: Jumlah Perkalian Bilangan](http://jsbin.com/mejaxos/edit?js,console)
   * [Tantangan Rekursif: Jumlah Perkalian Bilangan](http://jsbin.com/kewazed/edit?js,console)
