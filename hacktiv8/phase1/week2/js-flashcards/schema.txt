@@ -1,0 +1,4 @@
+CREATE TABLE social (
+definition text,
+term varchar(50)
+);

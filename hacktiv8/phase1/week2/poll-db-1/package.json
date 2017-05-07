@@ -1,0 +1,24 @@
+{
+  "name": "poll-db-1",
+  "version": "1.0.0",
+  "description": "Congress Poll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gray-fox-2017/poll-db-1.git"
+  },
+  "keywords": [
+    "sqlite",
+    "database",
+    "hacktiv8"
+  ],
+  "author": "raynormw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gray-fox-2017/poll-db-1/issues"
+  },
+  "homepage": "https://github.com/gray-fox-2017/poll-db-1#readme"
+}

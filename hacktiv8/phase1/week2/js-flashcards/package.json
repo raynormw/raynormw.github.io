@@ -1,0 +1,25 @@
+{
+  "name": "js-flashcards",
+  "version": "1.0.0",
+  "description": "Flashcards Game",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gray-fox-2017/js-flashcards.git"
+  },
+  "keywords": [
+    "deck",
+    "game",
+    "database",
+    "hacktiv8"
+  ],
+  "author": "raynormw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gray-fox-2017/js-flashcards/issues"
+  },
+  "homepage": "https://github.com/gray-fox-2017/js-flashcards#readme"
+}

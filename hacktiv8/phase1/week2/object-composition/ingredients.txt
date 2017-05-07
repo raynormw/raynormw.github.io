@@ -1,0 +1,4 @@
+peanut butter = 1 cup : flour, 2 cups (gluten) : sugar, 2 cups : peanut butter, 1 cup : cinnamon, 2 tsp : butter
+chocolate chip = 1 cup : chips, 1 cup : sugar, 2 tsp : butter
+chocolate cheese = 1 cup : flour, 2 cups : sugar, 2 cups : cinnamon, 1 tbsp : butter
+chocolate butter = 1 cup : gluten free flour, 1 cup : flavor adders, 2 tsp : butter
