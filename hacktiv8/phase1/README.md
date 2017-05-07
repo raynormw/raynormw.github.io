@@ -50,6 +50,8 @@
   * [Live Poll DB 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/poll-db-1)
 * Day5
   * [Flashcard](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/js-flashcards)
+* Weekly
+  * [Live Coding part1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/livecoding_phase1.js)
 
 <!-- ## Week3
 * Day1
