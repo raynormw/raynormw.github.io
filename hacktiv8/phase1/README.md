@@ -4,13 +4,13 @@
   * [⚓️ First Challenge](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/first-challenge-git)
   * [⚓️ Roman Numerals](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman_numerals.js)
   * [⚓️ Roman Numerals Recursive](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/roman_numerals_recursive.js)
-  * [Number in Words(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/number_in_words.js)
+  * [🚀 Number in Words](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/number_in_words.js)
 * Day2
   * [⚓️ Linear Search](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/linear_search.js)
   * [⚓️ Binary Search](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/binary.js)
   * [⚓️ Pig Latin](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/pig_latin.js)
   * [⚓️ Regular Expression](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/regular_expressions.js)
-  * [Words in File(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/words_in_a_file.js)
+  * [🚀 Words in File](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/words_in_a_file.js)
 * Day3
   * [⚓️ Nested Array 1 - Chessboard](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/chessboard.js)
   * [⚓️ Nested Array 1 - Tictactoe](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/tictactoe.js)
@@ -18,8 +18,8 @@
   * [⚓️ Stack](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/stack.js)
   * [⚓️ Queue](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/queue.js)
   * [⚓️ Advanced Calculator](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/calculator.js)
-  * [Subsets with Recursion(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/recursive_methods.js)
-  * [Abstract Data Structures(Rocket)](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/abstract_data_structures.js)
+  * [🚀 Subsets with Recursion](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/recursive_methods.js)
+  * [🚀 Abstract Data Structures](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week1/abstract_data_structures.js)
 * Day4
   * [⚓️ JS Racer](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/js-racer)
 * Day5
@@ -49,7 +49,7 @@
   * [⚓️ Codecademy](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/sql-codecademy/sql_codecademy.png)
   * [⚓️ Live Poll DB 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/poll-db-1)
 * Day5
-  * [⚓️Flashcard](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/js-flashcards)
+  * [⚓️ Flashcard](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/js-flashcards)
 * Weekly
   * [Live Coding part1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/livecoding_phase1.js)
 
