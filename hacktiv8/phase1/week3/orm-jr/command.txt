@@ -1,0 +1,25 @@
+Student.create(dbModel.connection, new Student(1, 'Windiana', 'Krismanuyar', 1))
+
+Student.update(dbModel.connection, new Student(1, 'Windi','Krism', 1))
+
+Student.delete(dbModel.connection, 1)
+
+Student.findById(dbModel.connection, 1)
+
+Student.findAll(dbModel.connection,function(err,data){if(!err){for(var i =0; i < data.length;i++){console.log(data[i])}}else{console.log(`Error`)}})
+
+Student.findLimit(dbModel.connection,{limit:2, offset:1},function(err,data){if(!err){for(var i =0; i < data.length;i++){console.log(data[i])}}else{console.log(`Error`)}})
+
+Student.where(dbModel.connection,"firstname = 'Windi'",function(err,data){if(!err){for(var i =0; i < data.length; i++){console.log(data[i])}}else{console.log(`Error`)}})
+
+Student.findOrCreate(dbModel.connection, new Student(2, 'Windiana', 'Krismanuyar', 1))
+
+Cohort.create(dbModel.connection, new Cohort(2, 'Gay Fox'))
+
+Cohort.update(dbModel.connection, new Cohort(2, 'Gray Fox'))
+
+Cohort.delete(dbModel.connection, 1)
+
+Cohort.findById(dbModel.connection, 1)
+
+Cohort.findAll(dbModel.connection,function(err,data){if(!err){for(var i =0; i < data.length;i++){console.log(data[i])}}else{console.log(`Error`)}})

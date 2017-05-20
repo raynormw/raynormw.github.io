@@ -1,0 +1,4 @@
+CREATE TABLE `SequelizeMeta` (`name` VARCHAR(255) NOT NULL UNIQUE PRIMARY KEY, UNIQUE (`name`));
+CREATE TABLE `Students` (`id` INTEGER PRIMARY KEY, `first_name` VARCHAR(255) NOT NULL, `last_name` VARCHAR(255), `gender` VARCHAR(255), `birthday` DATETIME, `email` VARCHAR(255), `phone` INTEGER, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `height` INTEGER);
+CREATE TABLE `Teachers` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `name` VARCHAR(255) NOT NULL, `email` VARCHAR(255), `phone` INTEGER, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+CREATE TABLE `Student_teachers` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `student_id` INTEGER, `teacher_id` INTEGER, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);

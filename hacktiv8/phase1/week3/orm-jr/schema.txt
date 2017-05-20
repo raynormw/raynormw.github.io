@@ -1,0 +1,2 @@
+CREATE TABLE students (id INTEGER PRIMARY KEY, firstname TEXT NOT NULL, lastname TEXT, cohort_id INTEGER);
+CREATE TABLE cohorts (id INTEGER PRIMARY KEY, name TEXT NOT NULL);

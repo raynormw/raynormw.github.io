@@ -1,0 +1,27 @@
+{
+  "name": "sqlite3-promise",
+  "version": "1.0.0",
+  "description": "A promise is a promise",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gray-fox-2017/sqlite3-promise.git"
+  },
+  "keywords": [
+    "sqlite",
+    "database",
+    "hacktiv8"
+  ],
+  "author": "raynormw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gray-fox-2017/sqlite3-promise/issues"
+  },
+  "homepage": "https://github.com/gray-fox-2017/sqlite3-promise#readme"
+}
