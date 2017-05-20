@@ -55,27 +55,19 @@
 
 ## Week3
 * Day1
-  * [⚓️ Student Roster DB From Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/address-book-db-from-schema)
-  * [Tantangan Rekursif: Jumlah Perkalian Bilangan](http://jsbin.com/kewazed/edit?js,console)
+  * [⚓️ Student Roster DB From Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/student-roster-db-from-schema)
+  * [⚓️ Address Book DB from Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/address-book-db-from-schema)
 * Day2
-  * [Check Nums](http://jsbin.com/gocakox/7/edit?js,console)
-  * [First Reverse](http://jsbin.com/peximi/edit?js,console)
-  * [Time Convert](http://jsbin.com/gojocub/5/edit?js,console)
-  * [Ex Oh](http://jsbin.com/guminey/3/edit?js,console)
+  * [⚓️ SQLite3 with Promise](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/sqlite3-promise)
+  * [⚓️ ORM Jr](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-jr)
 * Day3
-  * [Vowel Count](http://jsbin.com/wujapec/edit?js,console)
-  * [Other Products](http://jsbin.com/zezoyiv/2/edit?js,console)
-  * [Palindrome](http://jsbin.com/tuwoxal/2/edit?js,console)
-  * [Word Count](http://jsbin.com/dayofi/1/edit?js,console)
+  * [⚓️ ORM: Student Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-student-schema)
+  * [⚓️ ORM: Association](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-associations)
+  * [⚓️ Symmetric Migrations](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-symmetric-migrations)
 * Day4
-  * [Powers of Two](http://jsbin.com/pejizoh/1/edit?js,console)
-  * [Largest Pair](http://jsbin.com/cepufec/3/edit?js,console)
-  * [Power Set Count](http://jsbin.com/bizawef/5/edit?js,console)
-  * [Arith Geo](http://jsbin.com/xitiqug/2/edit?js,console)
-* Live Coding
-  * [Part1](http://jsbin.com/noferev/edit?js,console)
-  * [Part2](http://jsbin.com/vibivuq/edit?js,console)
-  * [Part3](http://jsbin.com/mudegig/edit?js,console)
+  * [⚓️ Sequelize Todos](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/sequelize-todos)
+* Day5
+  * [⚓️ Express from Scratch](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/express-from-scratch)
 
 <!-- ## Week4
 * Day1
