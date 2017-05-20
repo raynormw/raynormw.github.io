@@ -53,9 +53,9 @@
 * Weekly
   * [Live Coding part1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/livecoding_phase1.js)
 
-<!-- ## Week3
+## Week3
 * Day1
-  * [Tantangan Looping: Jumlah Perkalian Bilangan](http://jsbin.com/mejaxos/edit?js,console)
+  * [⚓️ Student Roster DB From Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/address-book-db-from-schema)
   * [Tantangan Rekursif: Jumlah Perkalian Bilangan](http://jsbin.com/kewazed/edit?js,console)
 * Day2
   * [Check Nums](http://jsbin.com/gocakox/7/edit?js,console)
@@ -77,7 +77,7 @@
   * [Part2](http://jsbin.com/vibivuq/edit?js,console)
   * [Part3](http://jsbin.com/mudegig/edit?js,console)
 
-## Week4
+<!-- ## Week4
 * Day1
   * [Longest Word](http://jsbin.com/piyiwol/edit?js,console)
   * [Simple Symbols](http://jsbin.com/cenuqey/edit?js,console)
