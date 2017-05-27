@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<%- include ./partials/menu.ejs %>
+
+  <div class="row">
+    <form class="col s6 offset-s3" action="/users/createFoodcourt" method="post">
+      <div class="input-field col s12">
+        <label for="name">Name</label><br>
+        <input type="text" name="name" value="" required><br>
+      </div>
+      <div class="input-field col s12">
+        <label for="address">Address</label><br>
+        <input type="text" name="address" value="" required><br>
+      </div>
+      <div class="input-field col s12">
+        <label for="city">City</label><br>
+        <input type="text" name="city" value="" required><br>
+      </div>
+      <div class="input-field col s12">
+        <label for="picture">Picture</label><br>
+        <input type="text" name="picture" value="" required><br>
+      </div>
+      <button type="submit" name="add">Insert</button>
+
+    </form>
+  </div>
+</body>
+</html>

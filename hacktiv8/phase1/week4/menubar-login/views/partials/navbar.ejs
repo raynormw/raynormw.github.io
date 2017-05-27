@@ -1,0 +1,21 @@
+<nav>
+  <div class="nav-wrapper">
+    <a href="/" class="brand-logo">Dummy App</a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      <% if (user) { %>
+        <% if (user.role == "admin") { %>
+          <li><span class="new badge" data-badge-caption="Admin"></span></li>
+        <% } else if (user.role == "supervisor") { %>
+          <li><span class="new badge" data-badge-caption="Supervisor"></span></li>
+        <% } else if (user.role == "customer") { %>
+          <li><span class="new badge" data-badge-caption="Customer"></span></li>
+        <% } %>
+
+        <li><a href='/users/logout'>Logout</a></li>
+      <% } else { %>
+        <li><a href="/users/new">Sign Up</a></li>
+        <li><a href="/users/login">Login</a></li>
+      <% } %>
+    </ul>
+  </div>
+</nav>

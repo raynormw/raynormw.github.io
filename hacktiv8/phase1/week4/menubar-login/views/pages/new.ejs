@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <% include ../partials/head %>
+  </head>
+  <body>
+    <% include ../partials/navbar %>
+    <h3><%= title %></h3>
+
+
+    <form action="/users/new" method="post">
+      <div class="row">
+        <div class="input-field col s6">
+          <input placeholder="Username" type="text" name="username">
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s6">
+          <input placeholder="Email" type="text" name="email">
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s6">
+          <input placeholder="Password" type="text" name="password">
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s6">
+          <input placeholder="Role" type="text" name="role">
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s2">
+        </div>
+        <div class="input-field col s2">
+          <input class="btn" type="submit" value="Submit">
+        </div>
+        <div class="input-field col s2">
+        </div>
+
+        <div class="input-field col s6">
+        </div>
+
+      </div>
+    </form>
+
+
+  </body>
+</html>

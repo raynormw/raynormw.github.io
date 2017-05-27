@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<%- include ./partials/menu.ejs %>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Add Resto</title>
+  </head>
+  <body>
+    <center>
+    <form class="" action="/users/update-resto/<%=data.id%>" method="post" style="width:50%">
+
+      <label for="name">Name</label><br>
+      <input type="text" name="name" value="<%= data.name%>" required><br>
+
+      <label for="category">Category</label><br>
+      <input type="text" name="category" value="<%= data.category%>" required><br>
+
+      <label for="picture">Picture</label><br>
+      <input type="text" name="picture" value="<%= data.picture%>" required><br>
+
+      <select class="browser-default" name='id_foodcourt' required>
+                   <option value='<%= data.id_foodcourt %>'> <%= data.Foodcourt.name %></option>
+                   <%
+                   foodcourt.forEach(value => {
+                     if (value.id != data.id_foodcourt) {
+                   %>
+                   <option value='<%= value.id %>'><%= value.name %></option>
+                   <%
+                    }
+                   });
+                   %>
+      </select>
+
+
+      <button type="submit" name="add">Insert</button>
+
+    </form>
+  </center>
+
+  </body>
+</html>

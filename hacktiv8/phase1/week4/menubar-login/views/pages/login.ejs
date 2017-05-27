@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <% include ../partials/head %>
+  </head>
+  <body>
+    <% include ../partials/navbar %>
+
+
+<% if (message) {  %>
+    <div class="card-panel">
+      <%= message %>
+    </div>
+<% } %>
+
+<% if (error) {  %>
+    <div class="card-panel pink lighten-4">
+      <%= error %>
+    </div>
+<% } %>
+
+
+<h4> Login </h4>
+<form action="/users/login" method="post">
+  <div class="row">
+    <div class="input-field col s6">
+      <input placeholder="Username" type="text" name="username">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s6">
+      <input placeholder="Password" type="password" name="password">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s6">
+      <input type="checkbox" id="rememberme" name="rememberme" />
+      <label for="rememberme">Remember Me</label>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s2">
+    </div>
+    <div class="input-field col s2">
+      <input class="btn" type="submit" value="Login">
+    </div>
+    <div class="input-field col s2">
+    </div>
+    <div class="input-field col s6">
+    </div>
+
+  </div>
+</form>
+
+
+
+</body>
+</html>

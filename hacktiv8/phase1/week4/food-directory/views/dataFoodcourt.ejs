@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<%- include ./partials/menu.ejs %>
+
+<head>
+  <meta charset="utf-8">
+  <title>Data Foodcourt</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.css">
+</head>
+
+<body>
+  <div class="" id="container">
+    <h4 align='center'>Data Food-Court</h4>
+    <hr>
+    <form class="" action="/users/add" method="post">
+      <table class="striped" style="width:80%" align='center'>
+        <thead>
+          <tr>
+
+            <td><b>ID</b></td>
+            <td><b>NAME</b></td>
+            <td><b>ADRESS</b></td>
+            <td><b>CITY</b></td>
+            <td><b>PICTURE</b></td>
+            <td><b>ACTION</b></td>
+
+          </tr>
+        </thead>
+        <tbody>
+
+          <%
+              foodcourt.forEach((value)=>{
+            %>
+            <tr>
+
+              <td>
+                <%= value.id%>
+              </td>
+              <td>
+                <%= value.name%>
+              </td>
+              <td>
+                <%= value.address%>
+              </td>
+              <td>
+                <%= value.city%>
+              </td>
+              <td>
+                <%= value.picture  %>
+              </td>
+              <td><a href="/users/edit-foodcourt/<%=value.id%>">EDIT</a> | <a href="/users/delete/<%=value.id%>" onclick="confirm('Are you Sure want to delete?')">DELETE</a></td>
+
+            </tr>
+            <%
+            })
+            %>
+
+        </tbody>
+      </table>
+
+    </form>
+  </div>
+</body>
+
+</html>

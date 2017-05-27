@@ -80,6 +80,6 @@
   * [⚓️ Color Palette](http://jsbin.com/lowocuc/edit?js,console)
   * [⚓️ Menubar and Login](http://jsbin.com/fiweqa/edit?js,console)
 * Day4
-  * [⚓️ Lightning Talk](http://jsbin.com/lobonel/edit?js,console)
+  * [Live Coding part2](http://jsbin.com/lobonel/edit?js,console)
 * Day5
   * [Group Project](http://jsbin.com/codehip/edit?js,console)

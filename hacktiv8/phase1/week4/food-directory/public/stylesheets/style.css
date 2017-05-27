@@ -1,0 +1,61 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.business-header {
+  height: 450px;
+  background: url('/images/pizza3.png') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.tagline {
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.6);
+}
+
+.business-header p {
+  font-size: 22px;
+  color: black;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.6);
+}
+
+a {
+  color: red; /*#00B7FF*/
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+.row.content {
+  min-height: 1000px;
+  height: 1000px;
+}
+
+/* Set gray background color and 100% height */
+.sidenav {
+  background-color: #f1f1f1;
+  height: 100%;
+}
+
+.nav li a:hover {
+  background-color: #5bc0de;
+  color: white;
+}
+
+/* Set black background color, white text and some padding */
+footer {
+  background-color: #33373D; /*#555*/
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+  .sidenav {
+    height: auto;
+    padding: 15px;
+  }
+  .row.content {height: auto;}
+}

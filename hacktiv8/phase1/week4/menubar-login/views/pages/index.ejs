@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <% include ../partials/head %>
+  </head>
+  <body>
+    <div class="container">
+
+    <header>
+    <% include ../partials/navbar %>
+    </header>
+
+
+    <h3>Welcome to Dummy App</h3>
+
+    <br><br>
+
+    <% if (user) {  %>
+
+        <div class="card-panel">
+          You are logged in as <%= user.username %>.
+        </div>
+
+    <% } %>
+
+    <% if (message) {  %>
+        <div class="card-panel">
+          <%= message %>
+        </div>
+    <% } %>
+
+  </div> <!-- end of class container-->
+
+  </body>
+</html>

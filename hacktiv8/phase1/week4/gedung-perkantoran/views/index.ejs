@@ -1,0 +1,46 @@
+<!-- views/layout.ejs -->
+
+<!DOCTYPE html>
+<html>
+  <% include ./partials/header %>
+  <body class="container">
+    <header>
+    <h3><%= title %></h3>
+    </header>
+    <main>
+      <a href="/kantors/add">Add</a>
+    <table class="highlight">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nama</th>
+          <th>Jumlah Karyawan</th>
+          <th>Nama Gedung</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% list.forEach((element) => { %>
+        <tr>
+          <td><%= element.id%></td>
+          <td><%= element.nama%></td>
+          <td><%= element.jumlah_karyawan%></td>
+          <td><%= element.Gedung.nama%></td>
+          <td><a href="/kantors/edit/<%=element.id%>" class="btn"><i class="material-icons">mode_edit</i></a></td>
+          <td><a class="btn red" onclick="deleteRecord(<%=element.id%>);"><i class="material-icons">delete</i></a></td>
+        </tr>
+        <% }); %>
+      </tbody>
+    </table>
+    </main>
+  </body>
+  <script type="text/javascript">
+    function deleteRecord(id) {
+      var ask = window.confirm("Are you sure you want to delete this record?");
+      if (ask) {
+        window.alert("This record was successfully deleted.");
+        document.location.href = 'kantors/delete/' + id;
+      }
+    }
+  </script>
+</html>

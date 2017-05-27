@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="stylesheets/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header class="business-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12  text-center">
+            <br><br><br><br><br><br>
+            <hr>
+            <hr>
+            <p>Find the best menu in Jakarta</p>
+            <br>
+            <select class="selectpicker" title="Choose menu..." data-live-search="true">
+              <option data-tokens="ayam_bakar">Ayam Bakar</option>
+              <option data-tokens="ikan_goreng">Ikan Goreng</option>
+              <option data-tokens="ayam_goreng">Ayam Goreng</option>
+              <option data-tokens="ikan_bakar">Ikan Bakar</option>
+              <option data-tokens="ayam_sayur">Ayam Sayur</option>
+              <option data-tokens="rendang">Rendang</option>
+              <option data-tokens="sushi">Sushi</option>
+              <option data-tokens="kopi">Kopi</option>
+              <option data-tokens="kentang_goreng">Kentang Goreng</option>
+            </select>
+            <a class="btn btn-info btn-md" href="/searchs/search">Go »</a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="container-fluid">
+        <div class="row content">
+        <!-- sidebar  -->
+        <div class="col-sm-3 sidenav">
+              <br>
+              <h4>Filter by Category</h4>
+              <ul class="nav nav-pills nav-stacked">
+                <li><a href="/categories/japanese">Japanese Food</a></li>
+                <li><a href="/categories/pizza_pasta">Pizza & Pasta</a></li>
+                <li><a href="/categories/mie">Bakmie</a></li>
+                <li><a href="/categories/seafood">Seafood</a></li>
+                <li><a href="/categories/coffee_shop">Coffee Shop</a></li>
+                <li><a href="/categories/dessert">Sweets & Desserts</a></li>
+                <li><a href="/categories/sate">Sate</a></li>
+                <li><a href="/categories/ayam">Ayam</a></li>
+              </ul><br>
+            </div>
+
+          <div class="col-sm-9">
+          <br>
+            <%resto.forEach((value) => {%>
+              <div class="col-sm-6">
+              <%if (value.category == "Seafood") { %>
+                <h4><small>Resto : <%= value.name%></small></h4>
+                <hr>
+                <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+                <h5><span class="label label-primary"><%= value.category %></span></h5><br>
+                <p>Address: <%= value.Foodcourt.city %><%= value.Foodcourt.address %></p>
+              </div>
+              <%}%>
+          <%}) %>
+
+        </div>
+    </div>
+  </div>
+</main>
+
+<footer class="container-fluid">
+  <p>&copy; E.T 2017 All Right Reserved</p>
+</footer>
+</body>
+<script type="text/javascript">
+$(document).ready(function() {
+  $(".js-example-basic-single").select2({
+    placeholder: "Search Menu..",
+    allowClear: true
+  });
+});
+</script>

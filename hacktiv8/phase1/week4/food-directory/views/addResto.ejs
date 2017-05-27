@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<%- include ./partials/menu.ejs %>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Add Resto</title>
+  </head>
+  <body>
+    <center>
+    <form class="" action="/users/createResto" method="post" style="width:50%">
+
+      <label for="name">Name</label><br>
+      <input type="text" name="name" value="" required><br>
+
+      <label for="category">Category</label><br>
+      <input type="text" name="category" value="" required><br>
+
+      <label for="picture">Picture</label><br>
+      <input type="text" name="picture" value="" required><br>
+
+      <select class="browser-default" name='id_foodcourt' required>
+                   <option value='' disabled selected>-Foodcourt Name-</option>
+                   <%
+                   foodcourt.forEach(value => {
+                   %>
+                   <option value='<%= value.id %>'><%= value.name %></option>
+                   <%
+                   });
+                   %>
+      </select>
+
+      <button type="submit" name="add">Insert</button>
+
+    </form>
+  </center>
+
+  </body>
+</html>
