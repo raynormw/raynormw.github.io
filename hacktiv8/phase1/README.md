@@ -69,38 +69,17 @@
 * Day5
   * [⚓️ Express from Scratch](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/express-from-scratch)
 
-<!-- ## Week4
+## Week4
 * Day1
-  * [Longest Word](http://jsbin.com/piyiwol/edit?js,console)
-  * [Simple Symbols](http://jsbin.com/cenuqey/edit?js,console)
+  * [⚓️ Express Generator](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-generator)
+  * [⚓️ Express RESTful CRUD](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-restful-crud)
 * Day2
-  * [Product Digits](http://jsbin.com/duxobey/edit?js,console)
-  * [Alphabet Soup](http://jsbin.com/winitiw/edit?js,console)
-  * [Swap Case](http://jsbin.com/zavahip/edit?js,console)
-  * [AB Check](http://jsbin.com/gedihur/edit?js,console)
+  * [⚓️ Heroku-1](http://jsbin.com/duxobey/edit?js,console)
+  * [⚓️ Express URL Shortner](http://jsbin.com/winitiw/edit?js,console)
 * Day3
-  * [Dash Insert](http://jsbin.com/lowocuc/edit?js,console)
-  * [Letter Capitalize](http://jsbin.com/fiweqa/edit?js,console)
-  * [Letter Changes](http://jsbin.com/ceheso/edit?js,console)
-  * [Letter Count 1](http://jsbin.com/roriwa/edit?js,console)
+  * [⚓️ Color Palette](http://jsbin.com/lowocuc/edit?js,console)
+  * [⚓️ Menubar and Login](http://jsbin.com/fiweqa/edit?js,console)
 * Day4
-  * [Division](http://jsbin.com/lobonel/edit?js,console)
-  * [Prime Time](http://jsbin.com/munorus/edit?js,console)
-  * [Simple Mode](http://jsbin.com/dezubam/edit?js,console)
-* Live Coding
-  * [Part1](http://jsbin.com/codehip/edit?js,console)
-  * [Part2](http://jsbin.com/kivuwo/edit?js,console)
-  * [Part3](http://jsbin.com/sugequf/edit?js,console)
-
-## Week5
-* [Day1 Seleksi dan Manipulasi DOM Sederhana](https://raynormw.github.io/hacktiv8/phase0/week5/Day1/)
-* [Day2 Penjelajahan dan Manipulasi DOM Sederhana](https://raynormw.github.io/hacktiv8/phase0/week5/Day2/)
-* [Day3 Memahami DOM Events](https://raynormw.github.io/hacktiv8/phase0/week5/Day3/)
-* [Day4 Menyusun Layout HTML dengan JavaScript](https://raynormw.github.io/hacktiv8/phase0/week5/Day4)
-* [WEEKLY PROJECT - Simple JavaScript Games](https://raynormw.github.io/hacktiv8/phase0/week5/Day5)
-
-## Week6
-*	[Live Coding](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase0/week6/Live%20Code%20Test)
-* [Day3 Mengubah Sintaks ES5 ke ES6](http://jsbin.com/wapabuz/edit?js,console)
-*	[Day4 Menyusun Class ES6](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/week6/class.js)
-* [Day5 Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana](http://jsbin.com/buxoyit/edit?js,console) -->
+  * [⚓️ Lightning Talk](http://jsbin.com/lobonel/edit?js,console)
+* Day5
+  * [Group Project](http://jsbin.com/codehip/edit?js,console)
