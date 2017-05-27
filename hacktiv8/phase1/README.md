@@ -75,11 +75,11 @@
   * [⚓️ Express RESTful CRUD](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-restful-crud)
 * Day2
   * [⚓️ Heroku-1](http://jsbin.com/duxobey/edit?js,console)
-  * [⚓️ Express URL Shortner](http://jsbin.com/winitiw/edit?js,console)
+  * [⚓️ Express URL Shortener](http://jsbin.com/winitiw/edit?js,console)
 * Day3
-  * [⚓️ Color Palette](http://jsbin.com/lowocuc/edit?js,console)
-  * [⚓️ Menubar and Login](http://jsbin.com/fiweqa/edit?js,console)
+  * [⚓️ Color Palette](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/color-palette)
+  * [⚓️ Menubar and Login](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/menubar-login)
 * Day4
-  * [Live Coding part2](http://jsbin.com/lobonel/edit?js,console)
+  * [Live Coding part2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/gedung-perkantoran)
 * Day5
-  * [Group Project](http://jsbin.com/codehip/edit?js,console)
+  * [Pair Project](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/food-directory)
