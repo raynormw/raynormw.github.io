@@ -1,0 +1,9 @@
+<script type="text/javascript">
+  function deleteRecord(id) {
+    var ask = window.confirm("Are you sure you want to delete this memo?");
+    if (ask) {
+      window.alert("This memo was successfully deleted.");
+      document.location.href = '/users/delete/' + id;
+    }
+  }
+</script>

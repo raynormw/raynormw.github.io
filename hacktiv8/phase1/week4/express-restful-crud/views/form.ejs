@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <% include ./partials/header %>
+  <body class="container">
+    <header>
+      <h4><%=message%></h4>
+    </header>
+    <main>
+      <div class="row">
+        <form class="col s12" action="<%=action%>" method="post">
+          <div class="row">
+            <div class="input-field col s6">
+              <i class="material-icons prefix">today</i>
+              <input type="text" placeholder="Memo Name" name="title" required>
+            </div>
+            <div class="input-field col s6">
+              <i class="material-icons">done_all</i>Status:
+              <input class="with-gap" name="status" type="radio" id="completed" value="completed"/>
+              <label for="completed">Completed</label>
+              <input class="with-gap" name="status" type="radio" id="uncomplete" value="uncomplete"/>
+              <label for="uncomplete">Uncomplete</label>
+            </div>
+          </div>
+          <input type="submit" value="Submit" class="waves-effect waves-light btn blue">
+        </form>
+      </div>
+    </main>
+    <footer >
+      <div class="row">
+        <a class="btn red" href="http://localhost:3000">index</a>
+      </div>
+    </footer>
+  </body>
+</html>

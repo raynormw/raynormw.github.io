@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <% include ./partials/header %>
+  <body>
+    <h3><%= message %></h3>
+    <div class="container">
+      <form action="/users/add" method="post">
+        <label>New Memo</label>
+        <select class="browser-default" name="user_id">
+          <option value="" disabled selected>Choose your Email</option>
+          <% users.forEach ( (element) => { %>
+          <option value="<%=element.id%>"><%= element.email %></option>
+          <% }) %>
+        </select>
+        <input type="text" name="title">
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+    <br><br>
+		<table class="highlight">
+			<thead>
+        <tr>
+	        <th>No</th>
+	        <th>Title</th>
+	        <th>Status</th>
+	        <th>User Email</th>
+	        <th>Created at</th>
+	        <th>Edit/Delete</th>
+        </tr>
+			</thead>
+			<tbody>
+				<% if(memos.length < 1) { %>
+					<tr>
+						<td><p>No Data :( </p></td>
+					</tr>
+				<% } else {
+						for (let i = 0 ; i < memos.length ; i++) { %>
+					<tr>
+						<td><%= i+1 %></td>
+						<td><%= memos[i].title %></td>
+						<% let checkStatus = memos[i].is_complete ? 'Completed' : 'Uncomplete' %>
+						<td><%= checkStatus %></td>
+						<td><%= memos[i].email %></td>
+            <td><%= helper.dateConvert(memos[i].createdAt) %></td>
+						<td><a href="/users/edit/<%= memos[i].id %>" class="btn"><i class="material-icons">mode_edit</i></a> &nbsp; <a class="btn red" onclick="deleteRecord(<%= memos[i].id %>);"><i class="material-icons">delete</i></a></td>
+					</tr>
+				<% }
+					} %>
+			</tbody>
+		</table>
+  </body>
+  <% include ./partials/footer %>
+</html>
