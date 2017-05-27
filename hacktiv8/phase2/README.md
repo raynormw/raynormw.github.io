@@ -10,7 +10,7 @@
   * [⚓️ Twatt Search](https://github.com/raynormw/twatt-search)
   * [⚓️ Twatt Recent](https://github.com/raynormw/twatt-recent)
 * Day5
-  * [⚓️ Group Project](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/js-racer)
+  * [⚓️ Group Project](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase2/week1/cari_resto)
 * Weekly Challenges
   * [⚓️ Boggle 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle1)
   * [⚓️ Boggle 2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle2)

@@ -44,6 +44,7 @@ dan lain-lain
 Berikut progress pembelajaran saya dalam mengikuti _bootcamp_ hacktiv8:
 ## [Phase0](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase0/README.md)
 ## [Phase1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1)
+## [Phase2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase2)
   
 # About Me
 Saya hanyalah seorang website developer amatir yang masih terus belajar, dan sedang memfokuskan diri untuk menguasai _javascript_.
