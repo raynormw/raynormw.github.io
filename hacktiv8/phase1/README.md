@@ -74,8 +74,8 @@
   * [⚓️ Express Generator](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-generator)
   * [⚓️ Express RESTful CRUD](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-restful-crud)
 * Day2
-  * [⚓️ Heroku-1](http://jsbin.com/duxobey/edit?js,console)
-  * [⚓️ Express URL Shortener](http://jsbin.com/winitiw/edit?js,console)
+  * [⚓️ Heroku-1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/heroku-1)
+  * [⚓️ Express URL Shortener](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-url-shortener)
 * Day3
   * [⚓️ Color Palette](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/color-palette)
   * [⚓️ Menubar and Login](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/menubar-login)
