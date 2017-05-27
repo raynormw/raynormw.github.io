@@ -1,0 +1,56 @@
+<% include ../partials_users/header %>
+
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <form class="col s12" action="/users/register" method="post">
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="material-icons prefix">perm_identity</i>
+                            <input placeholder="Name" id="name" type="text" name="name" class="active validate" required>
+                            <label for="name">Fullname</label>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <i class="material-icons prefix">email</i>
+                            <input placeholder="Email" id="email" type="email" name="email" class="validate">
+                            <label for="email">Email</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="material-icons prefix">account_circle</i>
+                            <input placeholder="Username" id="username" name="username" type="text" class="active validate" required>
+                            <label for="username">Username</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="material-icons prefix">lock</i>
+                            <input placeholder="password" id="password" name="password" type="text" class="active validate" required>
+                            <label for="password">Password</label>
+                        </div>
+                    </div>
+                    <!-- <div class="row">
+                        <div class="input-field col s6">
+                            <i class="material-icons prefix">edit</i>
+                            <input placeholder="Diagnosis" name="diagnosa" id="diagnosis" type="text" class="active validate" required>
+                            <label for="diagnosis">Diagnosis</label>
+                        </div>
+                    </div> -->
+
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <button class="btn" type="submit">Submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+
+    <% include ../partials_users/footer %>

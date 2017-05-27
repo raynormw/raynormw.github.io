@@ -1,0 +1,49 @@
+<% include ../partials_users/header %>
+
+    <div class="container">
+        <div class="section">
+          <h2>Restaurants di Jakarta</h2>
+            <div class="row">
+              <% restaurants.forEach((resto)=>{
+                let photos = (typeof resto.featured_image !== 'undefined') ? resto.featured_image: ''
+              %>
+                <div class="col s12">
+                  <div class="card horizontal">
+                    <div class="card-stacked">
+                      <div class="card-content">
+                        <div class="row">
+                          <strong>  <%- resto.name %></strong>
+                        </div>
+                        <div class="row">
+                          <div class="col s6">Cost For Two</div>
+                          <div class="col s6"><%- resto.currency%> <%- resto.average_cost_for_two %></div>
+                        </div>
+                        <div class="row">
+                          <div class="col s6">User Rating</div>
+                          <div class="col s6"><%- resto.user_rating.aggregate_rating %></div>
+                        </div>
+                        <div class="row">
+                          <div class="col s6">Cuisines</div>
+                          <div class="col s6"><%- resto.cuisines %></div>
+                        </div>
+                        <div class="row">
+                          <div class="col s6">Location</div>
+                          <div class="col s6"><%- resto.location.address %></div>
+                        </div>
+                      </div>
+
+                      <div class="card-action">
+                        <a href="/restaurants/<%-resto.id %>">View Detail</a>
+                      </div>
+                    </div>
+                    <div class="card-image">
+                      <img src="<%- photos %>" >
+                    </div>
+
+                  </div>
+                </div>
+              <%})%>
+            </div>
+        </div>
+    </div>
+<% include ../partials_users/footer %>

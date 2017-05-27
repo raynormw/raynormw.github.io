@@ -1,0 +1,88 @@
+<% include ../partials_users/header %>
+
+    <div class="container">
+        <div class="section">
+          <h2><%- resto.name%></h2>
+            <div class="row">
+              <div class="col s12">
+                <% if (typeof resto.featured_image !== 'undefined') { %>
+                  <img src="<%-resto.featured_image%>" style="max-height:300px;width:100%">
+                <%}%>
+
+              </div>
+              <div class="col s12">
+                <div class="row">
+                  <div class="col s6">Cost For Two</div>
+                  <div class="col s6"><%- resto.currency%> <%-resto.average_cost_for_two%></div>
+                </div>
+                <div class="row">
+                  <div class="col s6">User Rating:</div>
+                  <div class="col s6"><%- resto.user_rating.aggregate_rating%></div>
+                </div>
+                <div class="row">
+                  <div class="col s6">Cusinie</div>
+                  <div class="col s6"><%- resto.cuisines %></div>
+                </div>
+                <div class="row">
+                  <div class="col s6">Has Table Booking</div>
+                  <div class="col s6"><%- resto.has_table_booking%></div>
+                </div>
+                <div class="row">
+                  <div class="col s6">Offers</div>
+                  <div class="col s6"><%- resto.offers.join(',') %></div>
+                </div>
+                <div class="row">
+                  <div class="col s1">Location </div>
+                  <div class="col s5"> <a class="btn btn waves-effect red grey-text darken-text-2" id="btn-go">GO</a></div>
+                  <div class="col s6"><%- resto.location.address%> (longitude : <%- resto.location.longitude%> latitude <%- resto.location.latitude%></div>
+                </div>
+              </div>
+              <br/>
+              <div class="col s12">
+                <% if (tweets.statuses.length > 0 ) {%>
+                  <h2>Twitter</h2>
+                  <div class="row">
+                  <% tweets.statuses.forEach((tweet)=>{ %>
+
+                     <div class="col s12 m5">
+                       <div class="card-panel teal">
+                         <span class="white-text">
+                           <strong><%- tweet.created_at%>-<%- tweet.user.name%></strong><br/>
+                           <%-tweet.text%>
+                         </span>
+                       </div>
+                     </div>
+
+                  <%})%>
+                   </div>
+                <%}%>
+
+
+
+
+
+              </div>
+
+            </div>
+        </div>
+    </div>
+    <script>
+      getLocation();
+      function getLocation() {
+        let btnGo = document.getElementById('btn-go');
+        btnGo.style.display = 'none';
+        navigator.geolocation.getCurrentPosition(showPosition);
+      }
+      function showPosition(position) {
+        let btnGo = document.getElementById('btn-go');
+        btnGo.style.display = 'block';
+        url = "/restaurants/go?origin="+position.coords.latitude+","+position.coords.longitude+"&destination=<%- resto.location.latitude%>,<%- resto.location.longitude%>&avoid=tolls|highways|ferries&units=metrics&mode=transit";
+        // console.log('posi'+position.coords.latitude)
+        if (position.coords.latitude) {
+          btnGo.href = url;
+          btnGo.style.display = 'inline-block';
+        }
+
+      }
+    </script>
+<% include ../partials_users/footer %>

@@ -1,0 +1,46 @@
+</main>
+<footer class="page-footer red darken-2">
+
+    <div class="footer-copyright">
+      <div class="container">
+        ridho0 - raynormw - ppsari
+      </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js" ></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+$('select').material_select();
+
+});
+</script>
+<script>
+$(document).ready(function() {
+    var max_fields      = 10; //maximum input boxes allowed
+    var wrapper         = $(".input_fields_wrap"); //Fields wrapper
+    var add_button      = $("#add_field_button"); //Add button ID
+
+    var x = 1; //initlal text box count
+    $(add_button).click(function(e){ //on add input button click
+        e.preventDefault();
+        if(x < max_fields){ //max input box allowed
+            x++; //text box increment
+            $(wrapper).append('<div class="row"><div class="input-field col s6"><input class="active validate diagnosisResult" type="text" name="diagnosis[]"/><label for="mytext[]">Diagnosis</label></div><div class="input-field col s1 remove_field"><a class="btn-floating btn-flat red right"><i class="material-icons">delete</i></a></div></div'); //add input box
+        }
+    });
+
+    $(wrapper).on("click",".remove_field", function(e){ //user click on remove text
+        e.preventDefault(); $(this).parent('div').remove(); x--;
+    })
+});
+</script>
+
+
+<script src="/js/materialize.js"></script>
+<script src="/js/init.js"></script>
+</body>
+
+</html>

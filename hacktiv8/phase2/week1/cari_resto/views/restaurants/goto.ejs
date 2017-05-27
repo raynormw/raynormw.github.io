@@ -1,0 +1,75 @@
+<% include ../partials_users/header %>
+<script src="http://maps.google.com/maps/api/js"></script>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gmap3/7.2.0/gmap3.min.js"></script>
+    <div class="container">
+        <div class="section">
+          <h2></h2>
+
+            <div class="row">
+
+              <div class="col s12">
+                <div class="map"></div>
+                <p><%- weather %></p>
+                <h3>DIRECTION</h3>
+                <%
+                  let start_address = result.routes[0].legs[0].start_address;
+                  let departure_time = result.routes[0].legs[0].departure_time.text;
+                  let end_address = result.routes[0].legs[0].end_address;
+                  let arrival_time = result.routes[0].legs[0].arrival_time.text;
+                  let distance = result.routes[0].legs[0].distance.text;
+                  let duration = result.routes[0].legs[0].duration.text;
+                %>
+                <div class="row">
+                  <div class="col s6">AWAL: </div>
+                  <div class="col s6"><%- start_address%> (<%- departure_time%>)</div>
+                </div>
+                <div class="row">
+                  <div class="col s6">AKHIR:</div>
+                  <div class="col s6"><%- end_address%> (<%- arrival_time%>)</div>
+                </div>
+                <div class="row">
+                  <div class="col s6">  Jarak :</div>
+                  <div class="col s6"> <%- distance %></div>
+                </div>
+                <div class="row">
+                  <div class="col s6">Durasi:</div>
+                  <div class="col s6"><%- duration %></div>
+                </div>
+                <div class="row">
+                  <div class="col s6">  Step :</div>
+                  <div class="col s6">
+                    <ul>
+                    <% result.routes[0].legs[0].steps.forEach((step)=> { %>
+                      <li><%- `${step.travel_mode} - ${step.html_instructions} (${step.distance.text} - ${step.duration.text})`; %></li>
+                    <%});%>
+                  </ul>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+
+    $('.map')
+        .gmap3({
+          center:[<%-lat%>, <%-long%>],
+          zoom:18
+        })
+        .marker([
+          {position:[<%-lat%>, <%-long%>]},
+          {address:"<%- start_address%>"},
+          {address:"<%- end_address%>", icon: "http://maps.google.com/mapfiles/marker_grey.png"}
+        ])
+        .on('click', function (marker) {
+          marker.setIcon('http://maps.google.com/mapfiles/marker_green.png');
+        });
+        // $('#map').gMap('centerAt', { latitude: 0, longitude: 0, zoom: 10 });
+
+        // $('.map').removeCss('overflow')
+    </script>
+<% include ../partials_users/footer %>

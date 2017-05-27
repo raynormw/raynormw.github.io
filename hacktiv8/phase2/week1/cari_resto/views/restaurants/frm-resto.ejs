@@ -1,0 +1,58 @@
+<% include ../partials_users/header %>
+
+    <div class="container">
+        <div class="section">
+          <h2>Restaurants di Jakarta</h2>
+            <div class="row">
+              <form action="/restaurants/" method="get" class="col s12">
+
+                  <div class="input-field col s4">
+                    <select id="category" required name="category">
+                      <% categories.forEach((category)=>{ %>
+                        <option value=<%- category.id%>><%-category.name%></option>
+                      <%})%>
+                    </select>
+                    <label for="category">Input category</label>
+                  </div>
+
+                  <div class="input-field col s4">
+                    <select id="establishment" required name="establishment">
+                      <% establishments.forEach((establishment)=>{%>
+                        <option value=<%- establishment.id%>><%- establishment.name%></option>
+                      <%})%>
+                    </select>
+                    <label for="establishment">Input establishment</label>
+                  </div>
+
+                  <div class="input-field col s4">
+                    <select id="cuisine" required name="cuisine">
+                      <% cuisines.forEach((cuisine)=>{%>
+                        <option value=<%- cuisine.cuisine_id%>><%- cuisine.cuisine_name%></option>
+                      <%})%>
+                    </select>
+                    <label for="cuisine">Input cuisine</label>
+                  </div>
+
+                  <div class="input-field col s6">
+                    <select id="sort" required name="sort">
+                        <option value='rating'>rating</option>
+                        <option value='cost'>cost</option>
+                    </select>
+                    <label for="sort">Sort</label>
+                  </div>
+                  <div class="input-field col s6">
+                    <select id="order" required name="order">
+                        <option value='desc'>desc</option>
+                        <option value='asc'>asc</option>
+                    </select>
+                    <label for="category">Order By</label>
+                  </div>
+                
+                <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+                  <i class="material-icons right">send</i>
+                </button>
+              </form>
+            </div>
+        </div>
+    </div>
+<% include ../partials_users/footer %>

@@ -1,0 +1,40 @@
+{
+  "name": "cari_resto_bc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridho0/cari_resto_bc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridho0/cari_resto_bc/issues"
+  },
+  "homepage": "https://github.com/ridho0/cari_resto_bc#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-mass-index": "^1.0.0",
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "google-maps-direction": "^1.0.0",
+    "got-promise": "^5.0.0",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.2",
+    "openweather-apis": "^3.3.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.4",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.4.3",
+    "zomato.js": "^1.0.4"
+  }
+}
