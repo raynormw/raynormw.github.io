@@ -11,8 +11,8 @@
   * [⚓️ Twatt Recent](https://github.com/raynormw/twatt-recent)
 * Day5
   * [⚓️ Group Project](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase2/week1/cari_resto)
-* Weekly Challenges
-  * [⚓️ Boggle 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle1)
+* Portfolio Challenges
+  * [⚓️ Airbnb Clone](https://github.com/raynormw/portfolio/tree/master/semantic_web)
   * [⚓️ Boggle 2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle2)
 
 <!-- ## Week2
