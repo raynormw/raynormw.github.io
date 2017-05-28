@@ -13,7 +13,7 @@
   * [⚓️ Group Project](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase2/week1/cari_resto)
 * Portfolio Challenges
   * [⚓️ Airbnb Clone](https://github.com/raynormw/portfolio/tree/master/semantic_web)
-  * [⚓️ Boggle 2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week1/boggle2)
+  * [⚓️ Web API CRUD & Auth](https://github.com/raynormw/portfolio/tree/master/web_api)
 
 <!-- ## Week2
 * Day1
