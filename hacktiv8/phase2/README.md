@@ -27,7 +27,7 @@
 * Day5
   * [⚓️ Group Project](https://github.com/ingelieur/musicity)
 * Portfolio Challenges
-  * [Todos Fancy](https://github.com/raynormw/portfolio/tree/master/todos%20fancy)
+  * [⚓️ Todos Fancy](https://github.com/raynormw/portfolio/tree/master/todos%20fancy)
 
 <!-- ## Week3
 * Day1
