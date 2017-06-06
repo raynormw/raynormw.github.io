@@ -15,31 +15,21 @@
   * [⚓️ Airbnb Clone](https://github.com/raynormw/portfolio/tree/master/semantic_web)
   * [⚓️ Web API CRUD & Auth](https://github.com/raynormw/portfolio/tree/master/web_api)
 
-<!-- ## Week2
+## Week2
 * Day1
-  * [⚓️ Parsing Data 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/parsing-data)
-  * [⚓️ Classical Inheritance](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/classical-inheritance/animals_inheritance.js)
-  * [⚓️ Mango Tree](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/mango-tree/mango_tree.js)
+  * [⚓️ My jquery plugin](https://github.com/raynormw/my-jquery-plugin)
+  * [⚓️ Miniquery](https://github.com/raynormw/miniquery)
+  * [⚓️ Socmed aggregator](https://github.com/raynormw/socmed-aggregator)
 * Day2
-  * [⚓️ Object Composition](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/object-composition)
-  * [⚓️ Hospital Interface](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/hospital-interface/hospital.js)
+  * [⚓️ Ecommerce layout](https://github.com/raynormw/ecommerce-layout)
 * Day3
-  * [⚓️ Argument Order Dependency](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/argument-order-dependency)
-  * [⚓️ ARGV Basic](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/argv-basics/pig_latin.js)
-  * [⚓️ Todos App](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/js-todos)
-* Day4
-  * [⚓️ All Relation Case Study](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/all-relations-case-study/karyawan_schema.png)
-  * [⚓️ Family Tree](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/schema-family-tree/family%20tree.png)
-  * [⚓️ Polling](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/schema-polling/polling_schema.png)
-  * [⚓️ Reddit Jr](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/schema-reddit-jr/Reddit-Jr.png)
-  * [⚓️ Codecademy](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/sql-codecademy/sql_codecademy.png)
-  * [⚓️ Live Poll DB 1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/poll-db-1)
+  * [⚓️ Ecommerce](https://github.com/raynormw/ecommerce)
 * Day5
-  * [⚓️ Flashcard](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week2/js-flashcards)
-* Weekly
-  * [Live Coding part1](https://github.com/raynormw/raynormw.github.io/blob/master/hacktiv8/phase1/week2/livecoding_phase1.js)
+  * [⚓️ Group Project](https://github.com/ingelieur/musicity)
+* Portfolio Challenges
+  * [Todos Fancy](https://github.com/raynormw/portfolio/tree/master/todos%20fancy)
 
-## Week3
+<!-- ## Week3
 * Day1
   * [⚓️ Student Roster DB From Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/student-roster-db-from-schema)
   * [⚓️ Address Book DB from Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/address-book-db-from-schema)
