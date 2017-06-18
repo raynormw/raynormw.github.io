@@ -29,33 +29,26 @@
 * Portfolio Challenges
   * [⚓️ Todos Fancy](https://github.com/raynormw/portfolio/tree/master/todos%20fancy)
 
-<!-- ## Week3
+## Week3
 * Day1
-  * [⚓️ Student Roster DB From Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/student-roster-db-from-schema)
-  * [⚓️ Address Book DB from Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/address-book-db-from-schema)
+  * [⚓️ Blog Component Layout](https://github.com/raynormw/blog-components-layout)
+  * [⚓️ Blog TDD](https://github.com/raynormw/blog-tdd)
 * Day2
-  * [⚓️ SQLite3 with Promise](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/sqlite3-promise)
-  * [⚓️ ORM Jr](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-jr)
+  * [⚓️ It's Background Job](https://github.com/raynormw/its-background-job)
 * Day3
-  * [⚓️ ORM: Student Schema](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-student-schema)
-  * [⚓️ ORM: Association](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-associations)
-  * [⚓️ Symmetric Migrations](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/orm-symmetric-migrations)
+  * [⚓️ Hacktivoverflow](https://github.com/raynormw/hacktivoverflow)
 * Day4
-  * [⚓️ Sequelize Todos](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/sequelize-todos)
+  * [⚓️ Websocket Slide](https://github.com/raynormw/websocket-slide)
 * Day5
-  * [⚓️ Express from Scratch](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week3/express-from-scratch)
+  * [⚓️ Group Project Week3](https://github.com/hakiemaul/project-week-3)
 
 ## Week4
-* Day1
-  * [⚓️ Express Generator](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-generator)
-  * [⚓️ Express RESTful CRUD](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-restful-crud)
-* Day2
-  * [⚓️ Heroku-1](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/heroku-1)
-  * [⚓️ Express URL Shortener](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/express-url-shortener)
-* Day3
-  * [⚓️ Color Palette](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/color-palette)
-  * [⚓️ Menubar and Login](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/menubar-login)
-* Day4
-  * [Live Coding part2](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/gedung-perkantoran)
-* Day5
-  * [Pair Project](https://github.com/raynormw/raynormw.github.io/tree/master/hacktiv8/phase1/week4/food-directory) -->
+* Live Coding part1
+  * [⚓️ Fix me please frontend](https://github.com/raynormw/fix-me-please-frontend)
+  * [⚓️ Test API CRUD](https://github.com/raynormw/test-api-crud)
+* Live Coding part2
+  * [⚓️ Hacktivpress](https://github.com/raynormw/hacktivpress)
+
+## Special
+* Portfolio
+  * [⚓️ Portfolio Phase2](https://github.com/raynormw/portfolio)
